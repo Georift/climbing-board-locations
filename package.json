@@ -1,0 +1,15 @@
+{
+  "name": "climbing-board-locations",
+  "version": "1.0.0",
+  "main": "convert-to-geojson.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "description": "",
+  "dependencies": {
+    "@turf/turf": "^7.0.0"
+  }
+}
