@@ -1224,6 +1224,13 @@
       "name": "Vital Lower East Side",
       "latitude": 40.71722,
       "longitude": -73.98637
+    },
+    {
+      "id": 151086,
+      "username": "ragniclimb",
+      "name": "Ragni Climb",
+      "latitude": -33.40725,
+      "longitude": -70.57023
     }
   ]
 }

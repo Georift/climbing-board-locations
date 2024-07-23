@@ -3150,6 +3150,24 @@
           40.71722
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 151086,
+      "properties": {
+        "id": 151086,
+        "username": "ragniclimb",
+        "name": "Ragni Climb",
+        "latitude": -33.40725,
+        "longitude": -70.57023
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.57023,
+          -33.40725
+        ]
+      }
     }
   ]
 }
