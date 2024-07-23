@@ -4934,6 +4934,13 @@
       "name": "Climbing Zoo",
       "latitude": 46.27371,
       "longitude": 12.30335
+    },
+    {
+      "id": 518923,
+      "username": "ragniclimb",
+      "name": "Ragni Climb",
+      "latitude": -33.40725,
+      "longitude": -70.57023
     }
   ]
 }
