@@ -4927,6 +4927,13 @@
       "name": "Boulder Lab Brunswick",
       "latitude": -37.77623,
       "longitude": 144.96197
+    },
+    {
+      "id": 518893,
+      "username": "climbing_zoo",
+      "name": "Climbing Zoo",
+      "latitude": 46.27371,
+      "longitude": 12.30335
     }
   ]
 }
