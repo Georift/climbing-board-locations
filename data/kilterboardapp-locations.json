@@ -4941,6 +4941,13 @@
       "name": "Ragni Climb",
       "latitude": -33.40725,
       "longitude": -70.57023
+    },
+    {
+      "id": 520522,
+      "username": "momentumclimbing_sofia",
+      "name": "Momentum Climbing Sofia",
+      "latitude": 42.66773,
+      "longitude": 23.36823
     }
   ]
 }

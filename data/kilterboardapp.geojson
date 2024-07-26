@@ -12708,6 +12708,24 @@
           -33.40725
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 520522,
+      "properties": {
+        "id": 520522,
+        "username": "momentumclimbing_sofia",
+        "name": "Momentum Climbing Sofia",
+        "latitude": 42.66773,
+        "longitude": 23.36823
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.36823,
+          42.66773
+        ]
+      }
     }
   ]
 }
