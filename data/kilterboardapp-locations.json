@@ -4948,6 +4948,13 @@
       "name": "Momentum Climbing Sofia",
       "latitude": 42.66773,
       "longitude": 23.36823
+    },
+    {
+      "id": 520532,
+      "username": "vw_north",
+      "name": "Vertical World North",
+      "latitude": 47.88684,
+      "longitude": -122.27934
     }
   ]
 }

@@ -12726,6 +12726,24 @@
           42.66773
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 520532,
+      "properties": {
+        "id": 520532,
+        "username": "vw_north",
+        "name": "Vertical World North",
+        "latitude": 47.88684,
+        "longitude": -122.27934
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27934,
+          47.88684
+        ]
+      }
     }
   ]
 }
