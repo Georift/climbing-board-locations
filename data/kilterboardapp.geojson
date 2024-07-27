@@ -12744,6 +12744,24 @@
           47.88684
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 521072,
+      "properties": {
+        "id": 521072,
+        "username": "betaboulders_osterbro",
+        "name": "Beta Boulders Østerbro",
+        "latitude": 55.70698,
+        "longitude": 12.56107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56107,
+          55.70698
+        ]
+      }
     }
   ]
 }
