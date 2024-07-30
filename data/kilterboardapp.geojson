@@ -12816,6 +12816,24 @@
           46.01495
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 522817,
+      "properties": {
+        "id": 522817,
+        "username": "mnclimbingcoop",
+        "name": "Minnesota Climbing Cooperative",
+        "latitude": 45.00576,
+        "longitude": -93.24989
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24989,
+          45.00576
+        ]
+      }
     }
   ]
 }
