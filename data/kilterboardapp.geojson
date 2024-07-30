@@ -12780,6 +12780,42 @@
           35.98874
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 522769,
+      "properties": {
+        "id": 522769,
+        "username": "dbouldering_soga",
+        "name": "ディーボルダリングプラス 蘇我 D Bouldering Plus Soga",
+        "latitude": 35.58083,
+        "longitude": 140.12505
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.12505,
+          35.58083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 522792,
+      "properties": {
+        "id": 522792,
+        "username": "ildadoboulder",
+        "name": "IL DADO",
+        "latitude": 46.01495,
+        "longitude": 11.87572
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.87572,
+          46.01495
+        ]
+      }
     }
   ]
 }

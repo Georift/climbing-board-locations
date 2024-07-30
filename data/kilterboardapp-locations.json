@@ -4969,6 +4969,20 @@
       "name": "Dボルダリング春日部 D Bouldering Kasukabe",
       "latitude": 35.98874,
       "longitude": 139.73564
+    },
+    {
+      "id": 522769,
+      "username": "dbouldering_soga",
+      "name": "ディーボルダリングプラス 蘇我 D Bouldering Plus Soga",
+      "latitude": 35.58083,
+      "longitude": 140.12505
+    },
+    {
+      "id": 522792,
+      "username": "ildadoboulder",
+      "name": "IL DADO",
+      "latitude": 46.01495,
+      "longitude": 11.87572
     }
   ]
 }
