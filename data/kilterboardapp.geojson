@@ -12762,6 +12762,24 @@
           55.70698
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 522758,
+      "properties": {
+        "id": 522758,
+        "username": "dbouldering_kasukabe",
+        "name": "Dボルダリング春日部 D Bouldering Kasukabe",
+        "latitude": 35.98874,
+        "longitude": 139.73564
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.73564,
+          35.98874
+        ]
+      }
     }
   ]
 }
