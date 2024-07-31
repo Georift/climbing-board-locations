@@ -4990,6 +4990,13 @@
       "name": "Minnesota Climbing Cooperative",
       "latitude": 45.00576,
       "longitude": -93.24989
+    },
+    {
+      "id": 523338,
+      "username": "warehouse_rocks_reading",
+      "name": "Warehouse Rocks Climbing & Fitness Reading",
+      "latitude": 40.37632,
+      "longitude": -75.93075
     }
   ]
 }
