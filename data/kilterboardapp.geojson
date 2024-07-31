@@ -12852,6 +12852,24 @@
           40.37632
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 523345,
+      "properties": {
+        "id": 523345,
+        "username": "gripleangen",
+        "name": "Grip Klatring Leangen",
+        "latitude": 63.43269,
+        "longitude": 10.4664
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4664,
+          63.43269
+        ]
+      }
     }
   ]
 }
