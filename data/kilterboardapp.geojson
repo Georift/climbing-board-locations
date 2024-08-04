@@ -12906,6 +12906,42 @@
           50.53805
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 525780,
+      "properties": {
+        "id": 525780,
+        "username": "centralrockframingham",
+        "name": "Central Rock Gym Framingham",
+        "latitude": 42.31872,
+        "longitude": -71.39761
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.39761,
+          42.31872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 525783,
+      "properties": {
+        "id": 525783,
+        "username": "flashclimbingcentre",
+        "name": "Flash Climbing Centre",
+        "latitude": 52.428,
+        "longitude": -1.77499
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.77499,
+          52.428
+        ]
+      }
     }
   ]
 }
