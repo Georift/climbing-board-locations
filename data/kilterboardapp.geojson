@@ -12765,6 +12765,24 @@
     },
     {
       "type": "Feature",
+      "id": 522680,
+      "properties": {
+        "id": 522680,
+        "username": "DolinasClimbingCenter",
+        "name": "Dolinas Climbing Center",
+        "latitude": 39.5993,
+        "longitude": -8.82308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.82308,
+          39.5993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 522758,
       "properties": {
         "id": 522758,
@@ -12868,6 +12886,24 @@
         "coordinates": [
           10.4664,
           63.43269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 525772,
+      "properties": {
+        "id": 525772,
+        "username": "block.barock",
+        "name": "Block Barock Fulda",
+        "latitude": 50.53805,
+        "longitude": 9.69699
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.69699,
+          50.53805
         ]
       }
     }

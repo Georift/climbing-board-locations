@@ -4964,6 +4964,13 @@
       "longitude": 12.56107
     },
     {
+      "id": 522680,
+      "username": "DolinasClimbingCenter",
+      "name": "Dolinas Climbing Center",
+      "latitude": 39.5993,
+      "longitude": -8.82308
+    },
+    {
       "id": 522758,
       "username": "dbouldering_kasukabe",
       "name": "Dボルダリング春日部 D Bouldering Kasukabe",
@@ -5004,6 +5011,13 @@
       "name": "Grip Klatring Leangen",
       "latitude": 63.43269,
       "longitude": 10.4664
+    },
+    {
+      "id": 525772,
+      "username": "block.barock",
+      "name": "Block Barock Fulda",
+      "latitude": 50.53805,
+      "longitude": 9.69699
     }
   ]
 }
