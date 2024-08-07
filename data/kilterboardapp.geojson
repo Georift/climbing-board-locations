@@ -12942,6 +12942,24 @@
           52.428
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 527190,
+      "properties": {
+        "id": 527190,
+        "username": "kletterhallesalzburg",
+        "name": "Kletter & Boulderhalle Salzburg",
+        "latitude": 47.82591,
+        "longitude": 13.03308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.03308,
+          47.82591
+        ]
+      }
     }
   ]
 }
