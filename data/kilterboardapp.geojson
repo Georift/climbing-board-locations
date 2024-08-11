@@ -12978,6 +12978,24 @@
           60.23941
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 529574,
+      "properties": {
+        "id": 529574,
+        "username": "boulderningoettingen",
+        "name": "BiG Boulderhalle",
+        "latitude": 51.54719,
+        "longitude": 9.90762
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.90762,
+          51.54719
+        ]
+      }
     }
   ]
 }
