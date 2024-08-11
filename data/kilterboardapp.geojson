@@ -12960,6 +12960,24 @@
           47.82591
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 529557,
+      "properties": {
+        "id": 529557,
+        "username": "kiipeilyareena_ristikko",
+        "name": "KiipeilyAreena Ristikko",
+        "latitude": 60.23941,
+        "longitude": 24.84934
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84934,
+          60.23941
+        ]
+      }
     }
   ]
 }
