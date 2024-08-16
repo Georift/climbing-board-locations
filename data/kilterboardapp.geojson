@@ -13017,6 +13017,24 @@
     },
     {
       "type": "Feature",
+      "id": 531344,
+      "properties": {
+        "id": 531344,
+        "username": "camaleonboulder",
+        "name": "Camaleón Boulder",
+        "latitude": 39.46582,
+        "longitude": -0.35736
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.35736,
+          39.46582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 531998,
       "properties": {
         "id": 531998,
