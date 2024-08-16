@@ -12675,6 +12675,24 @@
     },
     {
       "type": "Feature",
+      "id": 517021,
+      "properties": {
+        "id": 517021,
+        "username": "AltissimoTPortet",
+        "name": "Altissimo Toulouse Portet",
+        "latitude": 43.55127,
+        "longitude": 1.40788
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.40788,
+          43.55127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 518893,
       "properties": {
         "id": 518893,
