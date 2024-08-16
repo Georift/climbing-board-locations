@@ -13014,6 +13014,24 @@
           -27.85168
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 532052,
+      "properties": {
+        "id": 532052,
+        "username": "zimaclimbing",
+        "name": "Zima Escalada",
+        "latitude": 38.86872,
+        "longitude": -6.95472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.95472,
+          38.86872
+        ]
+      }
     }
   ]
 }
