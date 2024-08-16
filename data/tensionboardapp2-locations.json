@@ -1238,6 +1238,13 @@
       "name": "Rocksports Indoor Climbing",
       "latitude": -27.45766,
       "longitude": 153.03119
+    },
+    {
+      "id": 153506,
+      "username": "blockfabrik",
+      "name": "Blockfabrik",
+      "latitude": 48.19046,
+      "longitude": 16.36009
     }
   ]
 }

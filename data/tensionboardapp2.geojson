@@ -3186,6 +3186,24 @@
           -27.45766
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 153506,
+      "properties": {
+        "id": 153506,
+        "username": "blockfabrik",
+        "name": "Blockfabrik",
+        "latitude": 48.19046,
+        "longitude": 16.36009
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36009,
+          48.19046
+        ]
+      }
     }
   ]
 }
