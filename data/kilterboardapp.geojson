@@ -13068,6 +13068,24 @@
           38.86872
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 533388,
+      "properties": {
+        "id": 533388,
+        "username": "obloc.ch",
+        "name": "O-Bloc",
+        "latitude": 46.96234,
+        "longitude": 7.48369
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.48369,
+          46.96234
+        ]
+      }
     }
   ]
 }
