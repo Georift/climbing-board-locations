@@ -13104,6 +13104,24 @@
           36.3603
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 536685,
+      "properties": {
+        "id": 536685,
+        "username": "carabinersnb",
+        "name": "Carabiner's Climbing and Fitness",
+        "latitude": 41.64237,
+        "longitude": -70.94795
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.94795,
+          41.64237
+        ]
+      }
     }
   ]
 }
