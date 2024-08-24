@@ -270,6 +270,24 @@
           41.74337
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 4653,
+      "properties": {
+        "id": 4653,
+        "username": "gp_eighty_one",
+        "name": "GP81",
+        "latitude": 40.70695,
+        "longitude": -73.92399
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92399,
+          40.70695
+        ]
+      }
     }
   ]
 }

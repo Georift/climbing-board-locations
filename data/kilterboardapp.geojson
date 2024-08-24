@@ -13086,6 +13086,24 @@
           46.96234
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 536661,
+      "properties": {
+        "id": 536661,
+        "username": "climbing_lead_gym_chungdae",
+        "name": "클라이밍짐리드 충대점 Climbing Gym Lead Chungdae Branch",
+        "latitude": 36.3603,
+        "longitude": 127.34669
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.34669,
+          36.3603
+        ]
+      }
     }
   ]
 }
