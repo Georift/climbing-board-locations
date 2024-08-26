@@ -13140,6 +13140,24 @@
           52.02101
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 537886,
+      "properties": {
+        "id": 537886,
+        "username": "monobloc.sants",
+        "name": "Monobloc Sants",
+        "latitude": 41.3666,
+        "longitude": 2.13958
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13958,
+          41.3666
+        ]
+      }
     }
   ]
 }

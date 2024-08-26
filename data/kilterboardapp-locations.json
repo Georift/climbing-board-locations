@@ -5109,6 +5109,13 @@
       "name": "Mono Boulder",
       "latitude": 52.02101,
       "longitude": 5.66728
+    },
+    {
+      "id": 537886,
+      "username": "monobloc.sants",
+      "name": "Monobloc Sants",
+      "latitude": 41.3666,
+      "longitude": 2.13958
     }
   ]
 }
