@@ -3204,6 +3204,24 @@
           48.19046
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 155080,
+      "properties": {
+        "id": 155080,
+        "username": "boulderkeskus_konala",
+        "name": "Boulderkeskus Konala",
+        "latitude": 60.23692,
+        "longitude": 24.8595
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8595,
+          60.23692
+        ]
+      }
     }
   ]
 }

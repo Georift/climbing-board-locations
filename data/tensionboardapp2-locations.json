@@ -1245,6 +1245,13 @@
       "name": "Blockfabrik",
       "latitude": 48.19046,
       "longitude": 16.36009
+    },
+    {
+      "id": 155080,
+      "username": "boulderkeskus_konala",
+      "name": "Boulderkeskus Konala",
+      "latitude": 60.23692,
+      "longitude": 24.8595
     }
   ]
 }
