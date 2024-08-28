@@ -13158,6 +13158,24 @@
           41.3666
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 538999,
+      "properties": {
+        "id": 538999,
+        "username": "therockdump",
+        "name": "The Rock Dump",
+        "latitude": 58.28816,
+        "longitude": -134.38834
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.38834,
+          58.28816
+        ]
+      }
     }
   ]
 }

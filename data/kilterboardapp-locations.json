@@ -5116,6 +5116,13 @@
       "name": "Monobloc Sants",
       "latitude": 41.3666,
       "longitude": 2.13958
+    },
+    {
+      "id": 538999,
+      "username": "therockdump",
+      "name": "The Rock Dump",
+      "latitude": 58.28816,
+      "longitude": -134.38834
     }
   ]
 }
