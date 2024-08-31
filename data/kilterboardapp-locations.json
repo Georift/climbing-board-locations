@@ -5123,6 +5123,13 @@
       "name": "The Rock Dump",
       "latitude": 58.28816,
       "longitude": -134.38834
+    },
+    {
+      "id": 540662,
+      "username": "nasu_cafe",
+      "name": "Nàsu Café",
+      "latitude": 29.804,
+      "longitude": 121.52409
     }
   ]
 }

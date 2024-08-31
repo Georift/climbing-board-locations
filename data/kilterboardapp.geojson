@@ -13176,6 +13176,24 @@
           58.28816
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 540662,
+      "properties": {
+        "id": 540662,
+        "username": "nasu_cafe",
+        "name": "Nàsu Café",
+        "latitude": 29.804,
+        "longitude": 121.52409
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52409,
+          29.804
+        ]
+      }
     }
   ]
 }
