@@ -5130,6 +5130,13 @@
       "name": "Nàsu Café",
       "latitude": 29.804,
       "longitude": 121.52409
+    },
+    {
+      "id": 543342,
+      "username": "center_of_gravity_boulderhalle",
+      "name": "Center of Gravity Boulderhalle",
+      "latitude": 51.93543,
+      "longitude": 8.56031
     }
   ]
 }

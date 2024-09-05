@@ -13194,6 +13194,24 @@
           29.804
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 543342,
+      "properties": {
+        "id": 543342,
+        "username": "center_of_gravity_boulderhalle",
+        "name": "Center of Gravity Boulderhalle",
+        "latitude": 51.93543,
+        "longitude": 8.56031
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.56031,
+          51.93543
+        ]
+      }
     }
   ]
 }
