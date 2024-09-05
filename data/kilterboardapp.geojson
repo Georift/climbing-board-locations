@@ -13212,6 +13212,24 @@
           51.93543
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 543354,
+      "properties": {
+        "id": 543354,
+        "username": "suchq_climbing",
+        "name": "非常趣攀岩 SuchQ Climbing",
+        "latitude": 23.04032,
+        "longitude": 113.7517
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.7517,
+          23.04032
+        ]
+      }
     }
   ]
 }
