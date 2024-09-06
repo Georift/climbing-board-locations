@@ -134,14 +134,14 @@
         "id": 2505,
         "username": "revival_climbing",
         "name": "Revival Climbing Coalition",
-        "latitude": 45.00451,
-        "longitude": -93.27965
+        "latitude": 45.1093,
+        "longitude": -93.40267
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.27965,
-          45.00451
+          -93.40267,
+          45.1093
         ]
       }
     },

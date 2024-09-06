@@ -13284,6 +13284,24 @@
           -2.90054
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 543850,
+      "properties": {
+        "id": 543850,
+        "username": "boulderbar.stpoelten",
+        "name": "Boulderbar St. Pölten",
+        "latitude": 48.21651,
+        "longitude": 15.63578
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.63578,
+          48.21651
+        ]
+      }
     }
   ]
 }
