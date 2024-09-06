@@ -13266,6 +13266,24 @@
           -31.91385
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 543827,
+      "properties": {
+        "id": 543827,
+        "username": "ctrescuenca",
+        "name": "C-TR3S Climbing + Fitness",
+        "latitude": -2.90054,
+        "longitude": -79.01702
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01702,
+          -2.90054
+        ]
+      }
     }
   ]
 }
