@@ -13338,6 +13338,24 @@
           41.99789
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 543901,
+      "properties": {
+        "id": 543901,
+        "username": "bosscheboulders",
+        "name": "Bossche Boulders",
+        "latitude": 51.69594,
+        "longitude": 5.28177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.28177,
+          51.69594
+        ]
+      }
     }
   ]
 }
