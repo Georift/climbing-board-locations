@@ -4184,14 +4184,14 @@
         "id": 163363,
         "username": "revival_climbing",
         "name": "Revival Climbing Coalition",
-        "latitude": 45.00451,
-        "longitude": -93.27965
+        "latitude": 45.00543,
+        "longitude": -93.27926
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.27965,
-          45.00451
+          -93.27926,
+          45.00543
         ]
       }
     },
