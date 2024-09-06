@@ -5172,6 +5172,13 @@
       "name": "Boulderbar St. Pölten",
       "latitude": 48.21651,
       "longitude": 15.63578
+    },
+    {
+      "id": 543874,
+      "username": "class5gym",
+      "name": "Class 5",
+      "latitude": 33.84909,
+      "longitude": -118.35149
     }
   ]
 }

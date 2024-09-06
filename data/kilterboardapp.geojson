@@ -13302,6 +13302,24 @@
           48.21651
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 543874,
+      "properties": {
+        "id": 543874,
+        "username": "class5gym",
+        "name": "Class 5",
+        "latitude": 33.84909,
+        "longitude": -118.35149
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.35149,
+          33.84909
+        ]
+      }
     }
   ]
 }
