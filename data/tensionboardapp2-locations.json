@@ -1252,6 +1252,13 @@
       "name": "Boulderkeskus Konala",
       "latitude": 60.23692,
       "longitude": 24.8595
+    },
+    {
+      "id": 156049,
+      "username": "gp_eighty_one",
+      "name": "GP81",
+      "latitude": 40.70695,
+      "longitude": -73.92399
     }
   ]
 }
