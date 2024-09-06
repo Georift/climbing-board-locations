@@ -13248,6 +13248,24 @@
           41.8162
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 543807,
+      "properties": {
+        "id": 543807,
+        "username": "portsideboulders_osbornepark",
+        "name": "Portside Osborne Park",
+        "latitude": -31.91385,
+        "longitude": 115.81699
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.81699,
+          -31.91385
+        ]
+      }
     }
   ]
 }
