@@ -13230,6 +13230,24 @@
           23.04032
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 543802,
+      "properties": {
+        "id": 543802,
+        "username": "matxacuca",
+        "name": "Matxacuca",
+        "latitude": 41.8162,
+        "longitude": 2.99143
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.99143,
+          41.8162
+        ]
+      }
     }
   ]
 }
