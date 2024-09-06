@@ -3240,6 +3240,24 @@
           40.70695
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 156051,
+      "properties": {
+        "id": 156051,
+        "username": "class5gym",
+        "name": "Class 5",
+        "latitude": 33.84909,
+        "longitude": -118.35149
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.35149,
+          33.84909
+        ]
+      }
     }
   ]
 }

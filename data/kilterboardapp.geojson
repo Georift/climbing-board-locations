@@ -13320,6 +13320,24 @@
           33.84909
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 543896,
+      "properties": {
+        "id": 543896,
+        "username": "cantibali",
+        "name": "Can Tiba-li",
+        "latitude": 41.99789,
+        "longitude": 2.28049
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28049,
+          41.99789
+        ]
+      }
     }
   ]
 }
