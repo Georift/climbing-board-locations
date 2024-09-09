@@ -288,6 +288,24 @@
           40.70695
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 4885,
+      "properties": {
+        "id": 4885,
+        "username": "up.climbing.stkilda",
+        "name": "UP Climbing",
+        "latitude": -37.86987,
+        "longitude": 144.99438
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99438,
+          -37.86987
+        ]
+      }
     }
   ]
 }

@@ -111,6 +111,13 @@
       "name": "GP81",
       "latitude": 40.70695,
       "longitude": -73.92399
+    },
+    {
+      "id": 4885,
+      "username": "up.climbing.stkilda",
+      "name": "UP Climbing",
+      "latitude": -37.86987,
+      "longitude": 144.99438
     }
   ]
 }
