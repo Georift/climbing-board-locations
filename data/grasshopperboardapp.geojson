@@ -684,6 +684,24 @@
           38.91728
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 23941,
+      "properties": {
+        "id": 23941,
+        "username": "momentumclimbinglehi",
+        "name": "Momentum Climbing Lehi",
+        "latitude": 40.38297,
+        "longitude": -111.83449
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.83449,
+          40.38297
+        ]
+      }
     }
   ]
 }
