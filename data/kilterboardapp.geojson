@@ -13356,6 +13356,24 @@
           51.69594
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 546149,
+      "properties": {
+        "id": 546149,
+        "username": "hoytundertaketmoss",
+        "name": "Høyt Under Taket Moss",
+        "latitude": 59.41667,
+        "longitude": 10.67336
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67336,
+          59.41667
+        ]
+      }
     }
   ]
 }
