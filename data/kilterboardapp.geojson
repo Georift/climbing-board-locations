@@ -13374,6 +13374,24 @@
           59.41667
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 546842,
+      "properties": {
+        "id": 546842,
+        "username": "boulderweltregensburg",
+        "name": "Boulderwelt Regensburg",
+        "latitude": 49.0323,
+        "longitude": 12.12876
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.12876,
+          49.0323
+        ]
+      }
     }
   ]
 }
