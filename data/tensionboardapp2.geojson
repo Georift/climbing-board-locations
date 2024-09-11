@@ -3258,6 +3258,24 @@
           33.84909
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 156694,
+      "properties": {
+        "id": 156694,
+        "username": "hangdogrockclimbing",
+        "name": "HangDog",
+        "latitude": -41.21355,
+        "longitude": 174.8897
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8897,
+          -41.21355
+        ]
+      }
     }
   ]
 }
