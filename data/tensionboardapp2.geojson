@@ -75,6 +75,24 @@
     },
     {
       "type": "Feature",
+      "id": 24272,
+      "properties": {
+        "id": 24272,
+        "username": "cubeclimbing",
+        "name": "Cube Climbing Center",
+        "latitude": 49.50572,
+        "longitude": -117.26653
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.26653,
+          49.50572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25046,
       "properties": {
         "id": 25046,
