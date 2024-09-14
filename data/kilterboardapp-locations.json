@@ -2334,7 +2334,7 @@
     {
       "id": 211632,
       "username": "justclimbhk_shimenmen",
-      "name": "Just Climb Shimenmen",
+      "name": "Just Climb Shek Mun",
       "latitude": 22.39078,
       "longitude": 114.20741
     },
@@ -5207,6 +5207,20 @@
       "name": "Boulderwelt Regensburg",
       "latitude": 49.0323,
       "longitude": 12.12876
+    },
+    {
+      "id": 548112,
+      "username": "awesomewallscork",
+      "name": "Awesome Walls Cork",
+      "latitude": 51.88996,
+      "longitude": -8.53863
+    },
+    {
+      "id": 548126,
+      "username": "b12_bouldern",
+      "name": "B12 Tübingen",
+      "latitude": 48.52237,
+      "longitude": 9.08345
     }
   ]
 }
