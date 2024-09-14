@@ -1280,6 +1280,13 @@
       "name": "HangDog",
       "latitude": -41.21355,
       "longitude": 174.8897
+    },
+    {
+      "id": 157013,
+      "username": "the_campus_boulder",
+      "name": "The Campus Climbing and Training",
+      "latitude": 40.05921,
+      "longitude": -105.2061
     }
   ]
 }

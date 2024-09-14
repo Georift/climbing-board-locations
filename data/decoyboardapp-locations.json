@@ -118,6 +118,13 @@
       "name": "UP Climbing",
       "latitude": -37.86987,
       "longitude": 144.99438
+    },
+    {
+      "id": 4990,
+      "username": "the_campus_boulder",
+      "name": "The Campus Climbing and Training",
+      "latitude": 40.05921,
+      "longitude": -105.2061
     }
   ]
 }
