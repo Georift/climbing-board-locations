@@ -13428,6 +13428,24 @@
           48.52237
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 548136,
+      "properties": {
+        "id": 548136,
+        "username": "vestveggen_bergen",
+        "name": "Vestveggen Bergen Klatreklubb",
+        "latitude": 60.46987,
+        "longitude": 5.31369
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.31369,
+          60.46987
+        ]
+      }
     }
   ]
 }

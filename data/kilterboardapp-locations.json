@@ -5221,6 +5221,13 @@
       "name": "B12 Tübingen",
       "latitude": 48.52237,
       "longitude": 9.08345
+    },
+    {
+      "id": 548136,
+      "username": "vestveggen_bergen",
+      "name": "Vestveggen Bergen Klatreklubb",
+      "latitude": 60.46987,
+      "longitude": 5.31369
     }
   ]
 }
