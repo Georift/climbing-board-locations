@@ -125,6 +125,13 @@
       "name": "The Campus Climbing and Training",
       "latitude": 40.05921,
       "longitude": -105.2061
+    },
+    {
+      "id": 5040,
+      "username": "cai_merate",
+      "name": "CAI Merate",
+      "latitude": 45.69436,
+      "longitude": 9.41328
     }
   ]
 }

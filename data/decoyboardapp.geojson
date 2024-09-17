@@ -324,6 +324,24 @@
           40.05921
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 5040,
+      "properties": {
+        "id": 5040,
+        "username": "cai_merate",
+        "name": "CAI Merate",
+        "latitude": 45.69436,
+        "longitude": 9.41328
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.41328,
+          45.69436
+        ]
+      }
     }
   ]
 }
