@@ -5235,6 +5235,13 @@
       "name": "BlocCafé Climbing",
       "latitude": 42.49797,
       "longitude": 1.51116
+    },
+    {
+      "id": 550677,
+      "username": "mountainnetworkamsterdam",
+      "name": "Mountain Network Amsterdam",
+      "latitude": 52.37517,
+      "longitude": 4.842
     }
   ]
 }

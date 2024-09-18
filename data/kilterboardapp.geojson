@@ -13464,6 +13464,24 @@
           42.49797
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 550677,
+      "properties": {
+        "id": 550677,
+        "username": "mountainnetworkamsterdam",
+        "name": "Mountain Network Amsterdam",
+        "latitude": 52.37517,
+        "longitude": 4.842
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.842,
+          52.37517
+        ]
+      }
     }
   ]
 }
