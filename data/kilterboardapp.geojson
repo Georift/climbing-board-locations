@@ -13446,6 +13446,24 @@
           60.46987
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 550670,
+      "properties": {
+        "id": 550670,
+        "username": "bloccafe_climbing",
+        "name": "BlocCafé Climbing",
+        "latitude": 42.49797,
+        "longitude": 1.51116
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.51116,
+          42.49797
+        ]
+      }
     }
   ]
 }
