@@ -3312,6 +3312,24 @@
           40.05921
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 157572,
+      "properties": {
+        "id": 157572,
+        "username": "motionboulder_bugambilias",
+        "name": "Motion Boulder 3 - Bugambilias Branch",
+        "latitude": 20.60351,
+        "longitude": -103.43399
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.43399,
+          20.60351
+        ]
+      }
     }
   ]
 }

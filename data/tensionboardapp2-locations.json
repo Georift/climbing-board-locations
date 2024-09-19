@@ -1287,6 +1287,13 @@
       "name": "The Campus Climbing and Training",
       "latitude": 40.05921,
       "longitude": -105.2061
+    },
+    {
+      "id": 157572,
+      "username": "motionboulder_bugambilias",
+      "name": "Motion Boulder 3 - Bugambilias Branch",
+      "latitude": 20.60351,
+      "longitude": -103.43399
     }
   ]
 }

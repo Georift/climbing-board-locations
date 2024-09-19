@@ -13482,6 +13482,24 @@
           52.37517
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 551350,
+      "properties": {
+        "id": 551350,
+        "username": "steamfactorykosice",
+        "name": "Steam Factory",
+        "latitude": 48.69571,
+        "longitude": 21.23896
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.23896,
+          48.69571
+        ]
+      }
     }
   ]
 }
