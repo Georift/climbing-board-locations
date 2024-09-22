@@ -13449,6 +13449,24 @@
     },
     {
       "type": "Feature",
+      "id": 549163,
+      "properties": {
+        "id": 549163,
+        "username": "gmrcc_rutland",
+        "name": "Green Mountain Rock Climbing Center",
+        "latitude": 43.61992,
+        "longitude": -72.95569
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.95569,
+          43.61992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 550670,
       "properties": {
         "id": 550670,
@@ -13498,6 +13516,24 @@
         "coordinates": [
           21.23896,
           48.69571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 552559,
+      "properties": {
+        "id": 552559,
+        "username": "greifsbloc",
+        "name": "Greifsbloc e.V. Boulderverein",
+        "latitude": 54.09661,
+        "longitude": 13.36222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36222,
+          54.09661
         ]
       }
     }

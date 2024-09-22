@@ -5230,6 +5230,13 @@
       "longitude": 5.31369
     },
     {
+      "id": 549163,
+      "username": "gmrcc_rutland",
+      "name": "Green Mountain Rock Climbing Center",
+      "latitude": 43.61992,
+      "longitude": -72.95569
+    },
+    {
       "id": 550670,
       "username": "bloccafe_climbing",
       "name": "BlocCafé Climbing",
@@ -5249,6 +5256,13 @@
       "name": "Steam Factory",
       "latitude": 48.69571,
       "longitude": 21.23896
+    },
+    {
+      "id": 552559,
+      "username": "greifsbloc",
+      "name": "Greifsbloc e.V. Boulderverein",
+      "latitude": 54.09661,
+      "longitude": 13.36222
     }
   ]
 }

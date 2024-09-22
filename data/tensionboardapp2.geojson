@@ -3330,6 +3330,24 @@
           20.60351
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 157810,
+      "properties": {
+        "id": 157810,
+        "username": "bkirolak_errekalde",
+        "name": "Polideportivo de Errekalde",
+        "latitude": 43.2459,
+        "longitude": -2.93675
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.93675,
+          43.2459
+        ]
+      }
     }
   ]
 }
