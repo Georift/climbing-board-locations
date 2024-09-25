@@ -13536,6 +13536,42 @@
           54.09661
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 554621,
+      "properties": {
+        "id": 554621,
+        "username": "delire_ste_foy",
+        "name": "DÉLIRE Escalade Sainte-Foy",
+        "latitude": 46.80062,
+        "longitude": -71.3259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3259,
+          46.80062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 554627,
+      "properties": {
+        "id": 554627,
+        "username": "cal_colo",
+        "name": "カルコロ CAL-COLO",
+        "latitude": 34.78667,
+        "longitude": 135.81206
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.81206,
+          34.78667
+        ]
+      }
     }
   ]
 }

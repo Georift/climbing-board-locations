@@ -5263,6 +5263,20 @@
       "name": "Greifsbloc e.V. Boulderverein",
       "latitude": 54.09661,
       "longitude": 13.36222
+    },
+    {
+      "id": 554621,
+      "username": "delire_ste_foy",
+      "name": "DÉLIRE Escalade Sainte-Foy",
+      "latitude": 46.80062,
+      "longitude": -71.3259
+    },
+    {
+      "id": 554627,
+      "username": "cal_colo",
+      "name": "カルコロ CAL-COLO",
+      "latitude": 34.78667,
+      "longitude": 135.81206
     }
   ]
 }
