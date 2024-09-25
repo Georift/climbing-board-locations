@@ -3348,6 +3348,24 @@
           43.2459
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 158255,
+      "properties": {
+        "id": 158255,
+        "username": "ruckusclimbinggym",
+        "name": "Ruckus Climbing Gym",
+        "latitude": 36.02423,
+        "longitude": -79.87617
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.87617,
+          36.02423
+        ]
+      }
     }
   ]
 }

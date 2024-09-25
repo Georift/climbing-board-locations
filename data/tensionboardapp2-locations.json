@@ -1301,6 +1301,13 @@
       "name": "Polideportivo de Errekalde",
       "latitude": 43.2459,
       "longitude": -2.93675
+    },
+    {
+      "id": 158255,
+      "username": "ruckusclimbinggym",
+      "name": "Ruckus Climbing Gym",
+      "latitude": 36.02423,
+      "longitude": -79.87617
     }
   ]
 }
