@@ -702,6 +702,24 @@
           40.38297
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 24240,
+      "properties": {
+        "id": 24240,
+        "username": "elbloquepr",
+        "name": "El Bloque Bouldering Gym",
+        "latitude": 18.42857,
+        "longitude": -66.0561
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0561,
+          18.42857
+        ]
+      }
     }
   ]
 }

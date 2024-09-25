@@ -272,6 +272,13 @@
       "name": "Momentum Climbing Lehi",
       "latitude": 40.38297,
       "longitude": -111.83449
+    },
+    {
+      "id": 24240,
+      "username": "elbloquepr",
+      "name": "El Bloque Bouldering Gym",
+      "latitude": 18.42857,
+      "longitude": -66.0561
     }
   ]
 }
