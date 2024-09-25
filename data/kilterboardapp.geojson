@@ -13572,6 +13572,24 @@
           34.78667
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 554640,
+      "properties": {
+        "id": 554640,
+        "username": "verticalexcape",
+        "name": "Vertical eXcape Evansville",
+        "latitude": 37.98894,
+        "longitude": -87.48165
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.48165,
+          37.98894
+        ]
+      }
     }
   ]
 }
