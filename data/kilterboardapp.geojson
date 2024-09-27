@@ -13590,6 +13590,24 @@
           37.98894
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 555703,
+      "properties": {
+        "id": 555703,
+        "username": "grip_kletterzentrum",
+        "name": "GriP Kletter & Vereinszentrum",
+        "latitude": 48.70867,
+        "longitude": 9.67442
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.67442,
+          48.70867
+        ]
+      }
     }
   ]
 }

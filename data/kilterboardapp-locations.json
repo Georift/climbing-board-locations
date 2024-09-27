@@ -5284,6 +5284,13 @@
       "name": "Vertical eXcape Evansville",
       "latitude": 37.98894,
       "longitude": -87.48165
+    },
+    {
+      "id": 555703,
+      "username": "grip_kletterzentrum",
+      "name": "GriP Kletter & Vereinszentrum",
+      "latitude": 48.70867,
+      "longitude": 9.67442
     }
   ]
 }
