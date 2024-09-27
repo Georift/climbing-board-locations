@@ -3366,6 +3366,24 @@
           36.02423
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 158464,
+      "properties": {
+        "id": 158464,
+        "username": "delire_ste_foy",
+        "name": "DÉLIRE Escalade Sainte_Foy",
+        "latitude": 46.80062,
+        "longitude": -71.3259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3259,
+          46.80062
+        ]
+      }
     }
   ]
 }

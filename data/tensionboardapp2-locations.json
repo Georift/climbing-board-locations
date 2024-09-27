@@ -1308,6 +1308,13 @@
       "name": "Ruckus Climbing Gym",
       "latitude": 36.02423,
       "longitude": -79.87617
+    },
+    {
+      "id": 158464,
+      "username": "delire_ste_foy",
+      "name": "DÉLIRE Escalade Sainte_Foy",
+      "latitude": 46.80062,
+      "longitude": -71.3259
     }
   ]
 }
