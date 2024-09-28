@@ -3384,6 +3384,24 @@
           46.80062
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 158579,
+      "properties": {
+        "id": 158579,
+        "username": "lakelandclimbing_kendalwall",
+        "name": "Lakeland Climbing Centres - KendalWall",
+        "latitude": 54.34214,
+        "longitude": -2.73989
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.73989,
+          54.34214
+        ]
+      }
     }
   ]
 }
