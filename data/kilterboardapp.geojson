@@ -13608,6 +13608,24 @@
           48.70867
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 557045,
+      "properties": {
+        "id": 557045,
+        "username": "pacificedgeclimbinggym",
+        "name": "Pacific Edge",
+        "latitude": 36.96815,
+        "longitude": -122.00665
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.00665,
+          36.96815
+        ]
+      }
     }
   ]
 }
