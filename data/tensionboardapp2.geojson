@@ -3402,6 +3402,24 @@
           54.34214
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 159191,
+      "properties": {
+        "id": 159191,
+        "username": "gripboulderhal",
+        "name": "GRIP Boulderhal",
+        "latitude": 51.81311,
+        "longitude": 5.83827
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.83827,
+          51.81311
+        ]
+      }
     }
   ]
 }

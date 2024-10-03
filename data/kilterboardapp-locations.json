@@ -5298,6 +5298,20 @@
       "name": "Pacific Edge",
       "latitude": 36.96815,
       "longitude": -122.00665
+    },
+    {
+      "id": 559209,
+      "username": "gripboulderhal",
+      "name": "GRIP Boulderhal",
+      "latitude": 51.81311,
+      "longitude": 5.83827
+    },
+    {
+      "id": 559220,
+      "username": "lazipetteescalade",
+      "name": "La Zipette - Escalade & Snack",
+      "latitude": 45.61898,
+      "longitude": 5.88803
     }
   ]
 }

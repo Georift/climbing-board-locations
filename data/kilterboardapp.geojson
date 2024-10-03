@@ -13626,6 +13626,42 @@
           36.96815
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 559209,
+      "properties": {
+        "id": 559209,
+        "username": "gripboulderhal",
+        "name": "GRIP Boulderhal",
+        "latitude": 51.81311,
+        "longitude": 5.83827
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.83827,
+          51.81311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 559220,
+      "properties": {
+        "id": 559220,
+        "username": "lazipetteescalade",
+        "name": "La Zipette - Escalade & Snack",
+        "latitude": 45.61898,
+        "longitude": 5.88803
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.88803,
+          45.61898
+        ]
+      }
     }
   ]
 }
