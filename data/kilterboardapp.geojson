@@ -13662,6 +13662,24 @@
           45.61898
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 559223,
+      "properties": {
+        "id": 559223,
+        "username": "urbanapes.berlin.fhain",
+        "name": "Urban Apes Berlin Fhain",
+        "latitude": 52.52233,
+        "longitude": 13.43686
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43686,
+          52.52233
+        ]
+      }
     }
   ]
 }
