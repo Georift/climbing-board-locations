@@ -1336,6 +1336,13 @@
       "name": "Urban Apes Berlin Fhain",
       "latitude": 52.52233,
       "longitude": 13.43686
+    },
+    {
+      "id": 159201,
+      "username": "st_johns_climbing",
+      "name": "St. John's College Santa Fe",
+      "latitude": 35.66688,
+      "longitude": -105.91225
     }
   ]
 }

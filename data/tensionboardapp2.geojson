@@ -3438,6 +3438,24 @@
           52.52233
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 159201,
+      "properties": {
+        "id": 159201,
+        "username": "st_johns_climbing",
+        "name": "St. John's College Santa Fe",
+        "latitude": 35.66688,
+        "longitude": -105.91225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.91225,
+          35.66688
+        ]
+      }
     }
   ]
 }
