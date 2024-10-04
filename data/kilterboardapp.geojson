@@ -13680,6 +13680,24 @@
           52.52233
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 559840,
+      "properties": {
+        "id": 559840,
+        "username": "climbing_upthewall",
+        "name": "Climbing Up the Wall Ilsan 업더월클라이밍 일산",
+        "latitude": 37.68945,
+        "longitude": 126.75902
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.75902,
+          37.68945
+        ]
+      }
     }
   ]
 }

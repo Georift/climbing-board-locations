@@ -3456,6 +3456,24 @@
           35.66688
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 159346,
+      "properties": {
+        "id": 159346,
+        "username": "proa_climbing_center",
+        "name": "Proa Climbing Center",
+        "latitude": 41.17873,
+        "longitude": -8.6822
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6822,
+          41.17873
+        ]
+      }
     }
   ]
 }
