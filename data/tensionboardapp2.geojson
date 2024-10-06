@@ -3492,6 +3492,24 @@
           46.7198
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 159629,
+      "properties": {
+        "id": 159629,
+        "username": "magnusclimbinggym",
+        "name": "Magnus' Climbing Gym",
+        "latitude": 13.72308,
+        "longitude": 100.53072
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53072,
+          13.72308
+        ]
+      }
     }
   ]
 }

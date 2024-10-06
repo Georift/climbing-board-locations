@@ -1357,6 +1357,13 @@
       "name": "Nordic Arena Climbing Center",
       "latitude": 46.7198,
       "longitude": 12.22205
+    },
+    {
+      "id": 159629,
+      "username": "magnusclimbinggym",
+      "name": "Magnus' Climbing Gym",
+      "latitude": 13.72308,
+      "longitude": 100.53072
     }
   ]
 }
