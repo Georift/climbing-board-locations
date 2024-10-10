@@ -13716,6 +13716,24 @@
           41.60589
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 563289,
+      "properties": {
+        "id": 563289,
+        "username": "boulder__garage",
+        "name": "Boulder Garage",
+        "latitude": 44.98179,
+        "longitude": 7.37104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.37104,
+          44.98179
+        ]
+      }
     }
   ]
 }
