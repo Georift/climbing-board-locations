@@ -13698,6 +13698,24 @@
           37.68945
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 563266,
+      "properties": {
+        "id": 563266,
+        "username": "fanaticlleida",
+        "name": "Fanatic Lleida",
+        "latitude": 41.60589,
+        "longitude": 0.6407
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6407,
+          41.60589
+        ]
+      }
     }
   ]
 }
