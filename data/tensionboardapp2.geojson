@@ -39,6 +39,24 @@
     },
     {
       "type": "Feature",
+      "id": 15330,
+      "properties": {
+        "id": 15330,
+        "username": "quboantigua",
+        "name": "Qubo Antigua",
+        "latitude": 14.55229,
+        "longitude": -90.73218
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.73218,
+          14.55229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 20530,
       "properties": {
         "id": 20530,
