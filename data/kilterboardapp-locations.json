@@ -5340,6 +5340,13 @@
       "name": "Boulder Garage",
       "latitude": 44.98179,
       "longitude": 7.37104
+    },
+    {
+      "id": 566032,
+      "username": "infinityboulder",
+      "name": "Infinity Boulder",
+      "latitude": 45.99849,
+      "longitude": 11.12495
     }
   ]
 }

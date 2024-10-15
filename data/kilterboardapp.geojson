@@ -13734,6 +13734,24 @@
           44.98179
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 566032,
+      "properties": {
+        "id": 566032,
+        "username": "infinityboulder",
+        "name": "Infinity Boulder",
+        "latitude": 45.99849,
+        "longitude": 11.12495
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.12495,
+          45.99849
+        ]
+      }
     }
   ]
 }
