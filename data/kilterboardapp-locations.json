@@ -5347,6 +5347,20 @@
       "name": "Infinity Boulder",
       "latitude": 45.99849,
       "longitude": 11.12495
+    },
+    {
+      "id": 568516,
+      "username": "flashpointbristol",
+      "name": "Flashpoint Bristol",
+      "latitude": 51.44587,
+      "longitude": -2.58109
+    },
+    {
+      "id": 568525,
+      "username": "k2zilina",
+      "name": "K2 Žilina",
+      "latitude": 49.22087,
+      "longitude": 18.72795
     }
   ]
 }

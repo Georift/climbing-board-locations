@@ -13752,6 +13752,42 @@
           45.99849
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 568516,
+      "properties": {
+        "id": 568516,
+        "username": "flashpointbristol",
+        "name": "Flashpoint Bristol",
+        "latitude": 51.44587,
+        "longitude": -2.58109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.58109,
+          51.44587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 568525,
+      "properties": {
+        "id": 568525,
+        "username": "k2zilina",
+        "name": "K2 Žilina",
+        "latitude": 49.22087,
+        "longitude": 18.72795
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.72795,
+          49.22087
+        ]
+      }
     }
   ]
 }
