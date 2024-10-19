@@ -5368,6 +5368,13 @@
       "name": "The Boardroom x Climber's Rock",
       "latitude": 43.3838,
       "longitude": -79.76254
+    },
+    {
+      "id": 568554,
+      "username": "the_bloc_bouldering",
+      "name": "The Bloc",
+      "latitude": 49.1823,
+      "longitude": -123.98438
     }
   ]
 }
