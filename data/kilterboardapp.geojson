@@ -13788,6 +13788,24 @@
           49.22087
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 568540,
+      "properties": {
+        "id": 568540,
+        "username": "boardroombyclimbersrock",
+        "name": "The Boardroom x Climber's Rock",
+        "latitude": 43.3838,
+        "longitude": -79.76254
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.76254,
+          43.3838
+        ]
+      }
     }
   ]
 }
