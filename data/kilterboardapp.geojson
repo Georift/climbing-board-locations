@@ -13824,6 +13824,24 @@
           49.1823
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 569674,
+      "properties": {
+        "id": 569674,
+        "username": "howl_climbing",
+        "name": "HOWL",
+        "latitude": 31.22215,
+        "longitude": 121.38769
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.38769,
+          31.22215
+        ]
+      }
     }
   ]
 }
