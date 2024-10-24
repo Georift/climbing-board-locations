@@ -13860,6 +13860,24 @@
           40.74658
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 571448,
+      "properties": {
+        "id": 571448,
+        "username": "kind_climbing",
+        "name": "Kin:d",
+        "latitude": 37.26365,
+        "longitude": 126.99862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.99862,
+          37.26365
+        ]
+      }
     }
   ]
 }
