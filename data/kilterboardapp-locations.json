@@ -1207,7 +1207,7 @@
     {
       "id": 158996,
       "username": "gravityvaultbrick",
-      "name": "Gravity Vault Brick",
+      "name": "The Gravity Vault Brick",
       "latitude": 40.05867,
       "longitude": -74.14221
     },
@@ -1991,7 +1991,7 @@
     {
       "id": 178226,
       "username": "gravityvault_marin",
-      "name": "Gravity Vault Marin",
+      "name": "The Gravity Vault Marin",
       "latitude": 38.01805,
       "longitude": -122.52117
     },
@@ -5382,6 +5382,13 @@
       "name": "HOWL",
       "latitude": 31.22215,
       "longitude": 121.38769
+    },
+    {
+      "id": 571423,
+      "username": "gravityvault_westbury",
+      "name": "The Gravity Vault Westbury",
+      "latitude": 40.74658,
+      "longitude": -73.59561
     }
   ]
 }
