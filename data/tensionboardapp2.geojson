@@ -3528,6 +3528,24 @@
           13.72308
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 161823,
+      "properties": {
+        "id": 161823,
+        "username": "centralrockwynwood",
+        "name": "Central Rock Gym Wynwood",
+        "latitude": 25.80454,
+        "longitude": -80.19568
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19568,
+          25.80454
+        ]
+      }
     }
   ]
 }

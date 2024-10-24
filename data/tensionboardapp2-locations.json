@@ -1371,6 +1371,13 @@
       "name": "Magnus' Climbing Gym",
       "latitude": 13.72308,
       "longitude": 100.53072
+    },
+    {
+      "id": 161823,
+      "username": "centralrockwynwood",
+      "name": "Central Rock Gym Wynwood",
+      "latitude": 25.80454,
+      "longitude": -80.19568
     }
   ]
 }
