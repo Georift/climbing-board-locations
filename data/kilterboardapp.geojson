@@ -13878,6 +13878,24 @@
           37.26365
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 574770,
+      "properties": {
+        "id": 574770,
+        "username": "alaskarockgym",
+        "name": "Alaska Rock Gym",
+        "latitude": 61.19139,
+        "longitude": -149.87105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.87105,
+          61.19139
+        ]
+      }
     }
   ]
 }
