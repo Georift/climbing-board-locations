@@ -3264,7 +3264,7 @@
       "id": 159006,
       "properties": {
         "id": 159006,
-        "username": "cruxcc",
+        "username": "cruxcc_central",
         "name": "Crux Climbing Center Central",
         "latitude": 30.32642,
         "longitude": -97.71691
@@ -13930,6 +13930,24 @@
         "coordinates": [
           13.73109,
           51.05051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 575995,
+      "properties": {
+        "id": 575995,
+        "username": "cruxcc_pflugerville",
+        "name": "Crux Climbing Pflugerville",
+        "latitude": 30.47847,
+        "longitude": -97.61623
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.61623,
+          30.47847
         ]
       }
     }

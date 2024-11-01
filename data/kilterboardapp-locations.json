@@ -1269,7 +1269,7 @@
     },
     {
       "id": 159006,
-      "username": "cruxcc",
+      "username": "cruxcc_central",
       "name": "Crux Climbing Center Central",
       "latitude": 30.32642,
       "longitude": -97.71691
@@ -5417,6 +5417,13 @@
       "name": "Mandala Postplatz",
       "latitude": 51.05051,
       "longitude": 13.73109
+    },
+    {
+      "id": 575995,
+      "username": "cruxcc_pflugerville",
+      "name": "Crux Climbing Pflugerville",
+      "latitude": 30.47847,
+      "longitude": -97.61623
     }
   ]
 }
