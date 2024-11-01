@@ -13881,6 +13881,24 @@
     },
     {
       "type": "Feature",
+      "id": 573677,
+      "properties": {
+        "id": 573677,
+        "username": "ClimbinghutEP",
+        "name": "Climbing Hut Ellesmere Port",
+        "latitude": 53.2939,
+        "longitude": -2.91813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91813,
+          53.2939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 574770,
       "properties": {
         "id": 574770,
