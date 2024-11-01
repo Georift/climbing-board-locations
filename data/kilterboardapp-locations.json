@@ -5403,6 +5403,13 @@
       "name": "Alaska Rock Gym",
       "latitude": 61.19139,
       "longitude": -149.87105
+    },
+    {
+      "id": 575911,
+      "username": "mandala_postplatz",
+      "name": "Mandala Postplatz",
+      "latitude": 51.05051,
+      "longitude": 13.73109
     }
   ]
 }
