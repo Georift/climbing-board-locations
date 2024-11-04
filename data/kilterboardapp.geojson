@@ -13968,6 +13968,24 @@
           13.72308
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 577702,
+      "properties": {
+        "id": 577702,
+        "username": "captain.hook.boulder",
+        "name": "Captain Hook Boulder",
+        "latitude": 48.01948,
+        "longitude": 12.53534
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.53534,
+          48.01948
+        ]
+      }
     }
   ]
 }

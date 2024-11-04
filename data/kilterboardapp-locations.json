@@ -5431,6 +5431,13 @@
       "name": "Magnus' Climbing Gym",
       "latitude": 13.72308,
       "longitude": 100.53072
+    },
+    {
+      "id": 577702,
+      "username": "captain.hook.boulder",
+      "name": "Captain Hook Boulder",
+      "latitude": 48.01948,
+      "longitude": 12.53534
     }
   ]
 }
