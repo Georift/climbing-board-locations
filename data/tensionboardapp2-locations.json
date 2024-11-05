@@ -269,7 +269,7 @@
     {
       "id": 83765,
       "username": "gravityvault_flemington",
-      "name": "Gravity Vault Flemington",
+      "name": "The Gravity Vault Flemington",
       "latitude": 40.5311,
       "longitude": -74.85056
     },
@@ -1378,6 +1378,13 @@
       "name": "Central Rock Gym Wynwood",
       "latitude": 25.80454,
       "longitude": -80.19568
+    },
+    {
+      "id": 163415,
+      "username": "gravityvault_westbury",
+      "name": "The Gravity Vault Westbury",
+      "latitude": 40.74658,
+      "longitude": -73.59561
     }
   ]
 }
