@@ -9403,7 +9403,7 @@
       "properties": {
         "id": 354971,
         "username": "rosebloc.escalade",
-        "name": "Rose Bloc",
+        "name": "Rose Bloc Brossard",
         "latitude": 45.48455,
         "longitude": -73.46176
       },
@@ -13984,6 +13984,24 @@
         "coordinates": [
           12.53534,
           48.01948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 578544,
+      "properties": {
+        "id": 578544,
+        "username": "rosebloc_longueuil",
+        "name": "Rose Bloc Longueuil",
+        "latitude": 45.557,
+        "longitude": -73.49448
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.49448,
+          45.557
         ]
       }
     }
