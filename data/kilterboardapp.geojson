@@ -14004,6 +14004,24 @@
           45.557
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 578820,
+      "properties": {
+        "id": 578820,
+        "username": "asoboru_climbing_gym",
+        "name": "クライミングジム アソボル Asoboru Climbing Gym",
+        "latitude": 35.01308,
+        "longitude": 138.44605
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.44605,
+          35.01308
+        ]
+      }
     }
   ]
 }
