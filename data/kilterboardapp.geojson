@@ -14040,6 +14040,24 @@
           52.16263
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 578846,
+      "properties": {
+        "id": 578846,
+        "username": "boulderbar_hauptbahnhof_plus",
+        "name": "Boulderbar Hauptbahnhof Plus",
+        "latitude": 48.18139,
+        "longitude": 16.38472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.38472,
+          48.18139
+        ]
+      }
     }
   ]
 }

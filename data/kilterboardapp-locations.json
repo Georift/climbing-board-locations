@@ -5459,6 +5459,13 @@
       "name": "BlocSchmiede Boulderhalle",
       "latitude": 52.16263,
       "longitude": 11.62825
+    },
+    {
+      "id": 578846,
+      "username": "boulderbar_hauptbahnhof_plus",
+      "name": "Boulderbar Hauptbahnhof Plus",
+      "latitude": 48.18139,
+      "longitude": 16.38472
     }
   ]
 }
