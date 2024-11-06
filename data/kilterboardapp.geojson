@@ -14022,6 +14022,24 @@
           35.01308
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 578837,
+      "properties": {
+        "id": 578837,
+        "username": "blocschmiede",
+        "name": "BlocSchmiede Boulderhalle",
+        "latitude": 52.16263,
+        "longitude": 11.62825
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62825,
+          52.16263
+        ]
+      }
     }
   ]
 }

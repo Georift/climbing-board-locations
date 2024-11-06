@@ -5452,6 +5452,13 @@
       "name": "クライミングジム アソボル Asoboru Climbing Gym",
       "latitude": 35.01308,
       "longitude": 138.44605
+    },
+    {
+      "id": 578837,
+      "username": "blocschmiede",
+      "name": "BlocSchmiede Boulderhalle",
+      "latitude": 52.16263,
+      "longitude": 11.62825
     }
   ]
 }
