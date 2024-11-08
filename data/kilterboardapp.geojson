@@ -14094,6 +14094,24 @@
           9.93965
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 580230,
+      "properties": {
+        "id": 580230,
+        "username": "bouldersamager",
+        "name": "Boulders Amager",
+        "latitude": 55.61953,
+        "longitude": 12.63058
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.63058,
+          55.61953
+        ]
+      }
     }
   ]
 }
