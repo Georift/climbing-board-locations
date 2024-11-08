@@ -5487,6 +5487,13 @@
       "name": "Boulders Amager",
       "latitude": 55.61953,
       "longitude": 12.63058
+    },
+    {
+      "id": 580240,
+      "username": "take_wall",
+      "name": "Take Wall",
+      "latitude": 39.11843,
+      "longitude": 141.13801
     }
   ]
 }

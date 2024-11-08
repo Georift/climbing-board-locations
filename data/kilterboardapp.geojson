@@ -14112,6 +14112,24 @@
           55.61953
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 580240,
+      "properties": {
+        "id": 580240,
+        "username": "take_wall",
+        "name": "Take Wall",
+        "latitude": 39.11843,
+        "longitude": 141.13801
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.13801,
+          39.11843
+        ]
+      }
     }
   ]
 }
