@@ -14058,6 +14058,42 @@
           48.18139
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 579626,
+      "properties": {
+        "id": 579626,
+        "username": "innerpeaks_noda",
+        "name": "Inner Peaks NoDa",
+        "latitude": 35.24204,
+        "longitude": -80.82522
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.82522,
+          35.24204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 579645,
+      "properties": {
+        "id": 579645,
+        "username": "eskalarcr",
+        "name": "Eskalar",
+        "latitude": 9.93965,
+        "longitude": -84.15605
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15605,
+          9.93965
+        ]
+      }
     }
   ]
 }
