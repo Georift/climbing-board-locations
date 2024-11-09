@@ -14130,6 +14130,42 @@
           39.11843
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 580249,
+      "properties": {
+        "id": 580249,
+        "username": "hvam_il_klatring",
+        "name": "Hvam IL Klatring",
+        "latitude": 60.12731,
+        "longitude": 11.33811
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33811,
+          60.12731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 580256,
+      "properties": {
+        "id": 580256,
+        "username": "wupperwaende",
+        "name": "DAV Kletterzentrum Wupperwände",
+        "latitude": 51.26866,
+        "longitude": 7.23554
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.23554,
+          51.26866
+        ]
+      }
     }
   ]
 }

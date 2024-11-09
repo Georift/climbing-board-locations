@@ -5494,6 +5494,20 @@
       "name": "Take Wall",
       "latitude": 39.11843,
       "longitude": 141.13801
+    },
+    {
+      "id": 580249,
+      "username": "hvam_il_klatring",
+      "name": "Hvam IL Klatring",
+      "latitude": 60.12731,
+      "longitude": 11.33811
+    },
+    {
+      "id": 580256,
+      "username": "wupperwaende",
+      "name": "DAV Kletterzentrum Wupperwände",
+      "latitude": 51.26866,
+      "longitude": 7.23554
     }
   ]
 }
