@@ -14166,6 +14166,24 @@
           51.26866
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 582624,
+      "properties": {
+        "id": 582624,
+        "username": "umn_climbing",
+        "name": "University of Minnesota Climbing Program",
+        "latitude": 44.976,
+        "longitude": -93.22948
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22948,
+          44.976
+        ]
+      }
     }
   ]
 }

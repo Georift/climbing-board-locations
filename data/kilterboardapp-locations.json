@@ -5508,6 +5508,13 @@
       "name": "DAV Kletterzentrum Wupperwände",
       "latitude": 51.26866,
       "longitude": 7.23554
+    },
+    {
+      "id": 582624,
+      "username": "umn_climbing",
+      "name": "University of Minnesota Climbing Program",
+      "latitude": 44.976,
+      "longitude": -93.22948
     }
   ]
 }
