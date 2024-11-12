@@ -1385,6 +1385,13 @@
       "name": "The Gravity Vault Westbury",
       "latitude": 40.74658,
       "longitude": -73.59561
+    },
+    {
+      "id": 164244,
+      "username": "rosebloc_longueuil",
+      "name": "Rose Bloc Longueuil",
+      "latitude": 45.557,
+      "longitude": -73.49448
     }
   ]
 }

@@ -3564,6 +3564,24 @@
           40.74658
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 164244,
+      "properties": {
+        "id": 164244,
+        "username": "rosebloc_longueuil",
+        "name": "Rose Bloc Longueuil",
+        "latitude": 45.557,
+        "longitude": -73.49448
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.49448,
+          45.557
+        ]
+      }
     }
   ]
 }
