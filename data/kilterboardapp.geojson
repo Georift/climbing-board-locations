@@ -14202,6 +14202,24 @@
           43.65539
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 584488,
+      "properties": {
+        "id": 584488,
+        "username": "jdav_schwabach",
+        "name": "Juggendgruppe DAV Schwabach",
+        "latitude": 49.33552,
+        "longitude": 11.01591
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.01591,
+          49.33552
+        ]
+      }
     }
   ]
 }
