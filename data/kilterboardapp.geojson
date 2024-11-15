@@ -14184,6 +14184,24 @@
           44.976
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 584477,
+      "properties": {
+        "id": 584477,
+        "username": "thenotchclimbing",
+        "name": "The Notch Climbing Gym",
+        "latitude": 43.65539,
+        "longitude": -72.241
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.241,
+          43.65539
+        ]
+      }
     }
   ]
 }

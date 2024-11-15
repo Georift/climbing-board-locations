@@ -5515,6 +5515,13 @@
       "name": "University of Minnesota Climbing Program",
       "latitude": 44.976,
       "longitude": -93.22948
+    },
+    {
+      "id": 584477,
+      "username": "thenotchclimbing",
+      "name": "The Notch Climbing Gym",
+      "latitude": 43.65539,
+      "longitude": -72.241
     }
   ]
 }
