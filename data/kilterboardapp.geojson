@@ -14220,6 +14220,24 @@
           49.33552
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 589489,
+      "properties": {
+        "id": 589489,
+        "username": "thecircuitgym_eugene",
+        "name": "The Circuit Gym Eugene",
+        "latitude": 44.04822,
+        "longitude": -123.09014
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.09014,
+          44.04822
+        ]
+      }
     }
   ]
 }
