@@ -14310,6 +14310,24 @@
           48.61244
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 591641,
+      "properties": {
+        "id": 591641,
+        "username": "maniak_crl",
+        "name": "Maniak Charleroi",
+        "latitude": 50.41619,
+        "longitude": 4.43898
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.43898,
+          50.41619
+        ]
+      }
     }
   ]
 }
