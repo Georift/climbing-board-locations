@@ -5536,6 +5536,34 @@
       "name": "The Circuit Bouldering Gym Eugene",
       "latitude": 44.04822,
       "longitude": -123.09014
+    },
+    {
+      "id": 591597,
+      "username": "complex_maurice_thorez",
+      "name": "Complex Maurice Thorez",
+      "latitude": 50.40532,
+      "longitude": 2.90609
+    },
+    {
+      "id": 591606,
+      "username": "koalaclimbing_kintex",
+      "name": "코알라클라이밍 Koala Climbing Kintex",
+      "latitude": 37.67682,
+      "longitude": 126.74719
+    },
+    {
+      "id": 591615,
+      "username": "blockouttours",
+      "name": "Block'Out Tours",
+      "latitude": 47.43259,
+      "longitude": 0.69433
+    },
+    {
+      "id": 591618,
+      "username": "blockoutevry",
+      "name": "Block'Out Evry-Lisses",
+      "latitude": 48.61244,
+      "longitude": 2.42529
     }
   ]
 }

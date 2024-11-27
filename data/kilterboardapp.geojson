@@ -14238,6 +14238,78 @@
           44.04822
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 591597,
+      "properties": {
+        "id": 591597,
+        "username": "complex_maurice_thorez",
+        "name": "Complex Maurice Thorez",
+        "latitude": 50.40532,
+        "longitude": 2.90609
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.90609,
+          50.40532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 591606,
+      "properties": {
+        "id": 591606,
+        "username": "koalaclimbing_kintex",
+        "name": "코알라클라이밍 Koala Climbing Kintex",
+        "latitude": 37.67682,
+        "longitude": 126.74719
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.74719,
+          37.67682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 591615,
+      "properties": {
+        "id": 591615,
+        "username": "blockouttours",
+        "name": "Block'Out Tours",
+        "latitude": 47.43259,
+        "longitude": 0.69433
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.69433,
+          47.43259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 591618,
+      "properties": {
+        "id": 591618,
+        "username": "blockoutevry",
+        "name": "Block'Out Evry-Lisses",
+        "latitude": 48.61244,
+        "longitude": 2.42529
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.42529,
+          48.61244
+        ]
+      }
     }
   ]
 }
