@@ -3582,6 +3582,24 @@
           45.557
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 166186,
+      "properties": {
+        "id": 166186,
+        "username": "trianglerockclub_sy",
+        "name": "Triangle Rock Club Salvage Yard",
+        "latitude": 35.81018,
+        "longitude": -78.61697
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.61697,
+          35.81018
+        ]
+      }
     }
   ]
 }

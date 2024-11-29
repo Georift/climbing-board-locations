@@ -14328,6 +14328,24 @@
           50.41619
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 592905,
+      "properties": {
+        "id": 592905,
+        "username": "gh.climbing",
+        "name": "Greater Heights Climbing",
+        "latitude": 43.03304,
+        "longitude": -89.38128
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.38128,
+          43.03304
+        ]
+      }
     }
   ]
 }

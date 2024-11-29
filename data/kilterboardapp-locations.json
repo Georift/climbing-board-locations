@@ -5571,6 +5571,13 @@
       "name": "Maniak Charleroi",
       "latitude": 50.41619,
       "longitude": 4.43898
+    },
+    {
+      "id": 592905,
+      "username": "gh.climbing",
+      "name": "Greater Heights Climbing",
+      "latitude": 43.03304,
+      "longitude": -89.38128
     }
   ]
 }
