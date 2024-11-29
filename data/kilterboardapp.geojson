@@ -14346,6 +14346,24 @@
           43.03304
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 592984,
+      "properties": {
+        "id": 592984,
+        "username": "theroofbrest",
+        "name": "The Roof Brest",
+        "latitude": 48.39182,
+        "longitude": -4.4872
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4872,
+          48.39182
+        ]
+      }
     }
   ]
 }
