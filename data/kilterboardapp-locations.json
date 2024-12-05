@@ -5585,6 +5585,13 @@
       "name": "The Roof Brest",
       "latitude": 48.39182,
       "longitude": -4.4872
+    },
+    {
+      "id": 596480,
+      "username": "beyondbouldering_thebarton",
+      "name": "Beyond Bouldering Thebarton",
+      "latitude": -34.91386,
+      "longitude": 138.57631
     }
   ]
 }
