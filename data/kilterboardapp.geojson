@@ -14382,6 +14382,24 @@
           -34.91386
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 596488,
+      "properties": {
+        "id": 596488,
+        "username": "boulderhalwalhalla",
+        "name": "Boulderhal Walhalla",
+        "latitude": 52.06192,
+        "longitude": 4.31394
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.31394,
+          52.06192
+        ]
+      }
     }
   ]
 }
