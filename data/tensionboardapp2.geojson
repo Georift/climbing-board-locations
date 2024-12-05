@@ -3600,6 +3600,24 @@
           35.81018
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 166983,
+      "properties": {
+        "id": 166983,
+        "username": "beyondbouldering_thebarton",
+        "name": "Beyond Bouldering Thebarton",
+        "latitude": -34.91386,
+        "longitude": 138.57631
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.57631,
+          -34.91386
+        ]
+      }
     }
   ]
 }
