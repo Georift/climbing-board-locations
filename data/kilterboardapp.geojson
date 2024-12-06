@@ -4863,24 +4863,6 @@
     },
     {
       "type": "Feature",
-      "id": 173613,
-      "properties": {
-        "id": 173613,
-        "username": "beyondboulderingclovellypark",
-        "name": "Beyond Bouldering Clovelly Park",
-        "latitude": -34.99774,
-        "longitude": 138.57525
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.57525,
-          -34.99774
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 173614,
       "properties": {
         "id": 173614,
