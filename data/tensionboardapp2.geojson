@@ -3618,6 +3618,24 @@
           -34.91386
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 167436,
+      "properties": {
+        "id": 167436,
+        "username": "hubclimbing_markham",
+        "name": "Hub Climbing Markham",
+        "latitude": 43.85696,
+        "longitude": -79.35749
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.35749,
+          43.85696
+        ]
+      }
     }
   ]
 }
