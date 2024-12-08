@@ -14418,6 +14418,24 @@
           43.42825
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 598611,
+      "properties": {
+        "id": 598611,
+        "username": "boulder_line_euromedecine",
+        "name": "Boulder Line 2 Euromédecine",
+        "latitude": 43.6381,
+        "longitude": 3.82606
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.82606,
+          43.6381
+        ]
+      }
     }
   ]
 }
