@@ -14349,6 +14349,24 @@
     },
     {
       "type": "Feature",
+      "id": 593428,
+      "properties": {
+        "id": 593428,
+        "username": "270climbing",
+        "name": "270 Climbing Park",
+        "latitude": 51.84518,
+        "longitude": -2.12722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.12722,
+          51.84518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 596480,
       "properties": {
         "id": 596480,
