@@ -5634,6 +5634,13 @@
       "name": "The Campus Climbing and Training",
       "latitude": 40.05921,
       "longitude": -105.2061
+    },
+    {
+      "id": 600913,
+      "username": "centralrockrochester",
+      "name": "Central Rock Gym Rochester",
+      "latitude": 43.14998,
+      "longitude": -77.59443
     }
   ]
 }

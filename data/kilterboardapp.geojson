@@ -14490,6 +14490,24 @@
           40.05921
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 600913,
+      "properties": {
+        "id": 600913,
+        "username": "centralrockrochester",
+        "name": "Central Rock Gym Rochester",
+        "latitude": 43.14998,
+        "longitude": -77.59443
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.59443,
+          43.14998
+        ]
+      }
     }
   ]
 }
