@@ -5641,6 +5641,13 @@
       "name": "Central Rock Gym Rochester",
       "latitude": 43.14998,
       "longitude": -77.59443
+    },
+    {
+      "id": 601002,
+      "username": "gimnasiok2",
+      "name": "Gimnasio K2",
+      "latitude": 42.83755,
+      "longitude": -2.66905
     }
   ]
 }

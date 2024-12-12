@@ -14508,6 +14508,24 @@
           43.14998
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 601002,
+      "properties": {
+        "id": 601002,
+        "username": "gimnasiok2",
+        "name": "Gimnasio K2",
+        "latitude": 42.83755,
+        "longitude": -2.66905
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.66905,
+          42.83755
+        ]
+      }
     }
   ]
 }
