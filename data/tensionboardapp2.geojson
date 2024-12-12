@@ -3654,6 +3654,24 @@
           29.65731
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 167946,
+      "properties": {
+        "id": 167946,
+        "username": "rifleclimbingcenter",
+        "name": "Rifle Climbing Center",
+        "latitude": 39.53143,
+        "longitude": -107.78421
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.78421,
+          39.53143
+        ]
+      }
     }
   ]
 }
