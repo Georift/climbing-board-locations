@@ -14472,6 +14472,24 @@
           43.85696
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 600885,
+      "properties": {
+        "id": 600885,
+        "username": "the_campus_boulder",
+        "name": "The Campus Climbing and Training",
+        "latitude": 40.05921,
+        "longitude": -105.2061
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2061,
+          40.05921
+        ]
+      }
     }
   ]
 }

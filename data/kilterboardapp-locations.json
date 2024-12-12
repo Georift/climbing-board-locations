@@ -5627,6 +5627,13 @@
       "name": "Hub Climbing Markham",
       "latitude": 43.85696,
       "longitude": -79.35749
+    },
+    {
+      "id": 600885,
+      "username": "the_campus_boulder",
+      "name": "The Campus Climbing and Training",
+      "latitude": 40.05921,
+      "longitude": -105.2061
     }
   ]
 }
