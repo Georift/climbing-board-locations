@@ -14526,6 +14526,24 @@
           42.83755
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 603657,
+      "properties": {
+        "id": 603657,
+        "username": "eifelblock_metternich",
+        "name": "Eifelblock Metternich",
+        "latitude": 50.3698,
+        "longitude": 8.55315
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55315,
+          50.3698
+        ]
+      }
     }
   ]
 }

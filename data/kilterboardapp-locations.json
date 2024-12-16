@@ -5648,6 +5648,13 @@
       "name": "Gimnasio K2",
       "latitude": 42.83755,
       "longitude": -2.66905
+    },
+    {
+      "id": 603657,
+      "username": "eifelblock_metternich",
+      "name": "Eifelblock Metternich",
+      "latitude": 50.3698,
+      "longitude": 8.55315
     }
   ]
 }
