@@ -3672,6 +3672,24 @@
           39.53143
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 168737,
+      "properties": {
+        "id": 168737,
+        "username": "bouldermonkeys.at",
+        "name": "Boulder Monkeys",
+        "latitude": 48.20107,
+        "longitude": 16.40177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.40177,
+          48.20107
+        ]
+      }
     }
   ]
 }
