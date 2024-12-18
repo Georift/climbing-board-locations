@@ -14544,6 +14544,24 @@
           50.3698
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 604578,
+      "properties": {
+        "id": 604578,
+        "username": "urbanapes.hamburg.ost",
+        "name": "Urban Apes Hamburg Ost",
+        "latitude": 53.57759,
+        "longitude": 10.08011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.08011,
+          53.57759
+        ]
+      }
     }
   ]
 }

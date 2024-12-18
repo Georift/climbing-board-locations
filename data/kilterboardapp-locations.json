@@ -5655,6 +5655,13 @@
       "name": "Eifelblock Metternich",
       "latitude": 50.3698,
       "longitude": 7.55315
+    },
+    {
+      "id": 604578,
+      "username": "urbanapes.hamburg.ost",
+      "name": "Urban Apes Hamburg Ost",
+      "latitude": 53.57759,
+      "longitude": 10.08011
     }
   ]
 }
