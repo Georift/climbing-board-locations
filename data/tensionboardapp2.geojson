@@ -3690,6 +3690,24 @@
           48.20107
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 168999,
+      "properties": {
+        "id": 168999,
+        "username": "bend_endurance_academy",
+        "name": "Bend Endurance Academy",
+        "latitude": 44.03891,
+        "longitude": -121.30336
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.30336,
+          44.03891
+        ]
+      }
     }
   ]
 }

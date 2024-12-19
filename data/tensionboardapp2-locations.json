@@ -1434,6 +1434,13 @@
       "name": "Boulder Monkeys",
       "latitude": 48.20107,
       "longitude": 16.40177
+    },
+    {
+      "id": 168999,
+      "username": "bend_endurance_academy",
+      "name": "Bend Endurance Academy",
+      "latitude": 44.03891,
+      "longitude": -121.30336
     }
   ]
 }
