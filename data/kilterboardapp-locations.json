@@ -5669,6 +5669,13 @@
       "name": "DAV Boulderzentrum Ostalb",
       "latitude": 48.82413,
       "longitude": 10.02661
+    },
+    {
+      "id": 605318,
+      "username": "centralrockrandolph",
+      "name": "Central Rock Gym Randolph",
+      "latitude": 42.19973,
+      "longitude": -71.06673
     }
   ]
 }

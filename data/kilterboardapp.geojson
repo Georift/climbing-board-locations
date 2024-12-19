@@ -14580,6 +14580,24 @@
           48.82413
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 605318,
+      "properties": {
+        "id": 605318,
+        "username": "centralrockrandolph",
+        "name": "Central Rock Gym Randolph",
+        "latitude": 42.19973,
+        "longitude": -71.06673
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06673,
+          42.19973
+        ]
+      }
     }
   ]
 }

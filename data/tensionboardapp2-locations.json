@@ -1448,6 +1448,13 @@
       "name": "The Boulder Garden",
       "latitude": 35.9999,
       "longitude": -78.9021
+    },
+    {
+      "id": 169016,
+      "username": "cultivateclimbing_boardroom",
+      "name": "Cultivate Climbing - The Boardroom",
+      "latitude": 35.59211,
+      "longitude": -82.55935
     }
   ]
 }

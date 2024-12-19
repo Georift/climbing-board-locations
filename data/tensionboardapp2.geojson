@@ -3726,6 +3726,24 @@
           35.9999
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 169016,
+      "properties": {
+        "id": 169016,
+        "username": "cultivateclimbing_boardroom",
+        "name": "Cultivate Climbing - The Boardroom",
+        "latitude": 35.59211,
+        "longitude": -82.55935
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55935,
+          35.59211
+        ]
+      }
     }
   ]
 }
