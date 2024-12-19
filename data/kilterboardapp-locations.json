@@ -5662,6 +5662,13 @@
       "name": "Urban Apes Hamburg Ost",
       "latitude": 53.57759,
       "longitude": 10.08011
+    },
+    {
+      "id": 605293,
+      "username": "boulderzentrum.ostalb",
+      "name": "DAV Boulderzentrum Ostalb",
+      "latitude": 48.82413,
+      "longitude": 10.02661
     }
   ]
 }
