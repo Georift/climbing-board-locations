@@ -14598,6 +14598,24 @@
           42.19973
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 605339,
+      "properties": {
+        "id": 605339,
+        "username": "sputnikclimbing_chamberi",
+        "name": "Sputnik Climbing Chamberí",
+        "latitude": 40.43972,
+        "longitude": -3.70834
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70834,
+          40.43972
+        ]
+      }
     }
   ]
 }
