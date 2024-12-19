@@ -3708,6 +3708,24 @@
           44.03891
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 169007,
+      "properties": {
+        "id": 169007,
+        "username": "thebouldergarden",
+        "name": "The Boulder Garden",
+        "latitude": 35.9999,
+        "longitude": -78.9021
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9021,
+          35.9999
+        ]
+      }
     }
   ]
 }
