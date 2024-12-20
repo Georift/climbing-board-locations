@@ -7923,24 +7923,6 @@
     },
     {
       "type": "Feature",
-      "id": 295486,
-      "properties": {
-        "id": 295486,
-        "username": "steinzeit_boulderhalle_aalen",
-        "name": "Steinzeit Boulderhalle Aalen",
-        "latitude": 48.8242,
-        "longitude": 10.02664
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.02664,
-          48.8242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 297232,
       "properties": {
         "id": 297232,
