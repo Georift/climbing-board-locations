@@ -14616,6 +14616,24 @@
           26.49338
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 605993,
+      "properties": {
+        "id": 605993,
+        "username": "sissportssenter",
+        "name": "SiS Sportssenter",
+        "latitude": 58.93716,
+        "longitude": 5.69178
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.69178,
+          58.93716
+        ]
+      }
     }
   ]
 }
