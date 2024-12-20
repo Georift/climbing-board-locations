@@ -5119,15 +5119,15 @@
       "properties": {
         "id": 178228,
         "username": "cultivateclimbing_river",
-        "name": "Cultivate Climbing The River",
-        "latitude": 35.56812,
-        "longitude": -82.56952
+        "name": "Cultivate Climbing - The Boardroom",
+        "latitude": 35.59211,
+        "longitude": -82.55935
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.56952,
-          35.56812
+          -82.55935,
+          35.59211
         ]
       }
     },
