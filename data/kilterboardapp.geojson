@@ -14616,6 +14616,24 @@
           40.43972
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 605972,
+      "properties": {
+        "id": 605972,
+        "username": "fortrockclimbingcenter",
+        "name": "Fort Rock Climbing Center",
+        "latitude": 26.49338,
+        "longitude": -81.83502
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.83502,
+          26.49338
+        ]
+      }
     }
   ]
 }
