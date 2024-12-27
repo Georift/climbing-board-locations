@@ -5690,6 +5690,13 @@
       "name": "SiS Sportssenter",
       "latitude": 58.93716,
       "longitude": 5.69178
+    },
+    {
+      "id": 610205,
+      "username": "centralrockharvardsquare",
+      "name": "Central Rock Gym Harvard Square",
+      "latitude": 42.37318,
+      "longitude": -71.12024
     }
   ]
 }

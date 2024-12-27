@@ -14634,6 +14634,24 @@
           58.93716
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 610205,
+      "properties": {
+        "id": 610205,
+        "username": "centralrockharvardsquare",
+        "name": "Central Rock Gym Harvard Square",
+        "latitude": 42.37318,
+        "longitude": -71.12024
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12024,
+          42.37318
+        ]
+      }
     }
   ]
 }
