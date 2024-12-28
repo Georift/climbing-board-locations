@@ -14652,6 +14652,24 @@
           42.37318
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 610956,
+      "properties": {
+        "id": 610956,
+        "username": "academy_of_bouldering",
+        "name": "攀研学院 Academy of Bouldering",
+        "latitude": 31.25131,
+        "longitude": 121.50104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50104,
+          31.25131
+        ]
+      }
     }
   ]
 }

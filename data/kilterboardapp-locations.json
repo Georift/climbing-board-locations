@@ -5697,6 +5697,13 @@
       "name": "Central Rock Gym Harvard Square",
       "latitude": 42.37318,
       "longitude": -71.12024
+    },
+    {
+      "id": 610956,
+      "username": "academy_of_bouldering",
+      "name": "攀研学院 Academy of Bouldering",
+      "latitude": 31.25131,
+      "longitude": 121.50104
     }
   ]
 }
