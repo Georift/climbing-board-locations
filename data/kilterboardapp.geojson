@@ -14670,6 +14670,24 @@
           31.25131
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 610965,
+      "properties": {
+        "id": 610965,
+        "username": "gravityvaultprinceton",
+        "name": "Gravity Vault Princeton",
+        "latitude": 40.33661,
+        "longitude": -74.59476
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.59476,
+          40.33661
+        ]
+      }
     }
   ]
 }

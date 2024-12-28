@@ -5704,6 +5704,13 @@
       "name": "攀研学院 Academy of Bouldering",
       "latitude": 31.25131,
       "longitude": 121.50104
+    },
+    {
+      "id": 610965,
+      "username": "gravityvaultprinceton",
+      "name": "Gravity Vault Princeton",
+      "latitude": 40.33661,
+      "longitude": -74.59476
     }
   ]
 }
