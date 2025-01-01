@@ -14688,6 +14688,24 @@
           40.33661
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 613415,
+      "properties": {
+        "id": 613415,
+        "username": "artblocsalledescalade",
+        "name": "ArtBloc Salle d'Escalade",
+        "latitude": 43.71032,
+        "longitude": 7.19327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.19327,
+          43.71032
+        ]
+      }
     }
   ]
 }

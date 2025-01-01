@@ -5711,6 +5711,13 @@
       "name": "Gravity Vault Princeton",
       "latitude": 40.33661,
       "longitude": -74.59476
+    },
+    {
+      "id": 613415,
+      "username": "artblocsalledescalade",
+      "name": "ArtBloc Salle d'Escalade",
+      "latitude": 43.71032,
+      "longitude": 7.19327
     }
   ]
 }
