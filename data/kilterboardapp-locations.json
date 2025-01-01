@@ -5718,6 +5718,20 @@
       "name": "ArtBloc Salle d'Escalade",
       "latitude": 43.71032,
       "longitude": 7.19327
+    },
+    {
+      "id": 613427,
+      "username": "krag_sentral",
+      "name": "Krag Sentral",
+      "latitude": -33.93792,
+      "longitude": 18.46448
+    },
+    {
+      "id": 613431,
+      "username": "rifleclimbingcenter",
+      "name": "Rifle Climbing Center",
+      "latitude": 39.53143,
+      "longitude": -107.78421
     }
   ]
 }

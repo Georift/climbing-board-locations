@@ -14706,6 +14706,42 @@
           43.71032
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 613427,
+      "properties": {
+        "id": 613427,
+        "username": "krag_sentral",
+        "name": "Krag Sentral",
+        "latitude": -33.93792,
+        "longitude": 18.46448
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.46448,
+          -33.93792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 613431,
+      "properties": {
+        "id": 613431,
+        "username": "rifleclimbingcenter",
+        "name": "Rifle Climbing Center",
+        "latitude": 39.53143,
+        "longitude": -107.78421
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.78421,
+          39.53143
+        ]
+      }
     }
   ]
 }
