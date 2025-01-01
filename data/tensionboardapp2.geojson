@@ -3744,6 +3744,24 @@
           35.59211
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 171712,
+      "properties": {
+        "id": 171712,
+        "username": "krag_sentral",
+        "name": "Krag Sentral",
+        "latitude": -33.93792,
+        "longitude": 18.46448
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.46448,
+          -33.93792
+        ]
+      }
     }
   ]
 }
