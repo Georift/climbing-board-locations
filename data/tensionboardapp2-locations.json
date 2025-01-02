@@ -1462,6 +1462,13 @@
       "name": "Krag Sentral",
       "latitude": -33.93792,
       "longitude": 18.46448
+    },
+    {
+      "id": 172082,
+      "username": "mustangsbouldering",
+      "name": "Mustangs Bouldering",
+      "latitude": 41.93794,
+      "longitude": -74.01977
     }
   ]
 }

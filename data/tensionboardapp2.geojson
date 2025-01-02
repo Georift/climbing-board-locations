@@ -3762,6 +3762,24 @@
           -33.93792
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 172082,
+      "properties": {
+        "id": 172082,
+        "username": "mustangsbouldering",
+        "name": "Mustangs Bouldering",
+        "latitude": 41.93794,
+        "longitude": -74.01977
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01977,
+          41.93794
+        ]
+      }
     }
   ]
 }
