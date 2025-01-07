@@ -14742,6 +14742,24 @@
           39.53143
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 617811,
+      "properties": {
+        "id": 617811,
+        "username": "antrebloc",
+        "name": "Antrebloc",
+        "latitude": 48.80399,
+        "longitude": 2.36549
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36549,
+          48.80399
+        ]
+      }
     }
   ]
 }
