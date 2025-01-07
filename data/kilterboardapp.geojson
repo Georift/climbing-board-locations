@@ -14760,6 +14760,24 @@
           48.80399
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 617829,
+      "properties": {
+        "id": 617829,
+        "username": "escaladrome_hannover",
+        "name": "Escaladrome Hannover",
+        "latitude": 52.32893,
+        "longitude": 9.78353
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.78353,
+          52.32893
+        ]
+      }
     }
   ]
 }

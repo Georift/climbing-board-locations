@@ -5739,6 +5739,13 @@
       "name": "Antrebloc",
       "latitude": 48.80399,
       "longitude": 2.36549
+    },
+    {
+      "id": 617829,
+      "username": "escaladrome_hannover",
+      "name": "Escaladrome Hannover",
+      "latitude": 52.32893,
+      "longitude": 9.78353
     }
   ]
 }
