@@ -1469,6 +1469,13 @@
       "name": "Mustangs Bouldering",
       "latitude": 41.93794,
       "longitude": -74.01977
+    },
+    {
+      "id": 173009,
+      "username": "boulder_exe",
+      "name": "Boulder Exe",
+      "latitude": 50.72,
+      "longitude": -3.53781
     }
   ]
 }
