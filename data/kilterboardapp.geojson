@@ -14832,6 +14832,24 @@
           41.11489
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 619031,
+      "properties": {
+        "id": 619031,
+        "username": "plezalnicenter_ljubljana",
+        "name": "Plezalni Center Ljubljana",
+        "latitude": 46.0497,
+        "longitude": 14.54866
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.54866,
+          46.0497
+        ]
+      }
     }
   ]
 }
