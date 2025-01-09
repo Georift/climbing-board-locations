@@ -14796,6 +14796,24 @@
           52.32893
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 618982,
+      "properties": {
+        "id": 618982,
+        "username": "ichk",
+        "name": "International College Hong Kong",
+        "latitude": 22.53599,
+        "longitude": 114.21099
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.21099,
+          22.53599
+        ]
+      }
     }
   ]
 }
