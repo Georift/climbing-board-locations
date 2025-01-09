@@ -14814,6 +14814,24 @@
           22.53599
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 618994,
+      "properties": {
+        "id": 618994,
+        "username": "canrocktarragona",
+        "name": "Can Rock",
+        "latitude": 41.11489,
+        "longitude": 1.22935
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.22935,
+          41.11489
+        ]
+      }
     }
   ]
 }
