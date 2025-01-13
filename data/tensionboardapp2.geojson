@@ -3798,6 +3798,24 @@
           50.72
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 174081,
+      "properties": {
+        "id": 174081,
+        "username": "bigisland_bouldering",
+        "name": "Big Island Bouldering",
+        "latitude": 44.9808,
+        "longitude": -93.45714
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.45714,
+          44.9808
+        ]
+      }
     }
   ]
 }
