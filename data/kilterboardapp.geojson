@@ -14886,6 +14886,24 @@
           60.96871
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 622901,
+      "properties": {
+        "id": 622901,
+        "username": "steinblock_rankweil",
+        "name": "Steinblock Boulderhallen Rankweil",
+        "latitude": 47.27658,
+        "longitude": 9.65725
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.65725,
+          47.27658
+        ]
+      }
     }
   ]
 }
