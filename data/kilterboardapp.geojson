@@ -14940,6 +14940,42 @@
           29.65699
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 622931,
+      "properties": {
+        "id": 622931,
+        "username": "gravita_zero_ts",
+        "name": "Gravità Zero",
+        "latitude": 45.65702,
+        "longitude": 13.81049
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.81049,
+          45.65702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 622939,
+      "properties": {
+        "id": 622939,
+        "username": "harstad_klatreklubb",
+        "name": "Harstad Klatreklub",
+        "latitude": 68.80432,
+        "longitude": 16.53449
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.53449,
+          68.80432
+        ]
+      }
     }
   ]
 }
