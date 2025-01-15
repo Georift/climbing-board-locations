@@ -14976,6 +14976,24 @@
           68.80432
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 622946,
+      "properties": {
+        "id": 622946,
+        "username": "hogtownboulders",
+        "name": "Hogtown Boulders",
+        "latitude": 43.76222,
+        "longitude": -79.36013
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.36013,
+          43.76222
+        ]
+      }
     }
   ]
 }
