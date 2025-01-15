@@ -14904,6 +14904,42 @@
           47.27658
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 622908,
+      "properties": {
+        "id": 622908,
+        "username": "hubclimbing_mississauga",
+        "name": "Hub Climbing Mississauga",
+        "latitude": 43.57386,
+        "longitude": -79.6534
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6534,
+          43.57386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 622917,
+      "properties": {
+        "id": 622917,
+        "username": "armadillostoneoak",
+        "name": "Armadillo Boulders Stone Oak",
+        "latitude": 29.65699,
+        "longitude": -98.4477
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4477,
+          29.65699
+        ]
+      }
     }
   ]
 }

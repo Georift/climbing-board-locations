@@ -5795,6 +5795,20 @@
       "name": "Steinblock Boulderhallen Rankweil",
       "latitude": 47.27658,
       "longitude": 9.65725
+    },
+    {
+      "id": 622908,
+      "username": "hubclimbing_mississauga",
+      "name": "Hub Climbing Mississauga",
+      "latitude": 43.57386,
+      "longitude": -79.6534
+    },
+    {
+      "id": 622917,
+      "username": "armadillostoneoak",
+      "name": "Armadillo Boulders Stone Oak",
+      "latitude": 29.65699,
+      "longitude": -98.4477
     }
   ]
 }
