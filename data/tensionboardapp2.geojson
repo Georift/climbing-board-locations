@@ -2757,6 +2757,24 @@
     },
     {
       "type": "Feature",
+      "id": 134546,
+      "properties": {
+        "id": 134546,
+        "username": "boulderheads",
+        "name": "Boulder Heads",
+        "latitude": -26.80713,
+        "longitude": 153.07039
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07039,
+          -26.80713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 134678,
       "properties": {
         "id": 134678,

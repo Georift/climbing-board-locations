@@ -5781,6 +5781,13 @@
       "name": "Big Island Bouldering",
       "latitude": 44.9808,
       "longitude": -93.45714
+    },
+    {
+      "id": 622895,
+      "username": "valdresstorhall",
+      "name": "Valdres Storhall",
+      "latitude": 60.96871,
+      "longitude": 9.29742
     }
   ]
 }
