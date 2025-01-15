@@ -14994,6 +14994,24 @@
           43.76222
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 623342,
+      "properties": {
+        "id": 623342,
+        "username": "movement_crystal_city",
+        "name": "Movement Crystal City",
+        "latitude": 38.86171,
+        "longitude": -77.05061
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05061,
+          38.86171
+        ]
+      }
     }
   ]
 }

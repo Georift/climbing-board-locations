@@ -5830,6 +5830,13 @@
       "name": "Hogtown Boulders",
       "latitude": 43.76222,
       "longitude": -79.36013
+    },
+    {
+      "id": 623342,
+      "username": "movement_crystal_city",
+      "name": "Movement Crystal City",
+      "latitude": 38.86171,
+      "longitude": -77.05061
     }
   ]
 }
