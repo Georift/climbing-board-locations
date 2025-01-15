@@ -5551,15 +5551,15 @@
       "properties": {
         "id": 195169,
         "username": "latitudeclimbing",
-        "name": "Latitude Climbing & Fitness Norfolk",
-        "latitude": 36.86592,
-        "longitude": -76.28048
+        "name": "Latitude Climbing & Fitness Hampton",
+        "latitude": 37.04331,
+        "longitude": -76.39576
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.28048,
-          36.86592
+          -76.39576,
+          37.04331
         ]
       }
     },
