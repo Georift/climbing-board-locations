@@ -5837,6 +5837,13 @@
       "name": "Movement Crystal City",
       "latitude": 38.86171,
       "longitude": -77.05061
+    },
+    {
+      "id": 623921,
+      "username": "rockstar_climbing",
+      "name": "Rockstar Climbing",
+      "latitude": 35.1398,
+      "longitude": 33.36784
     }
   ]
 }

@@ -15012,6 +15012,24 @@
           38.86171
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 623921,
+      "properties": {
+        "id": 623921,
+        "username": "rockstar_climbing",
+        "name": "Rockstar Climbing",
+        "latitude": 35.1398,
+        "longitude": 33.36784
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.36784,
+          35.1398
+        ]
+      }
     }
   ]
 }
