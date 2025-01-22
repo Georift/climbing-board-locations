@@ -1490,6 +1490,13 @@
       "name": "Big Island Bouldering",
       "latitude": 44.9808,
       "longitude": -93.45714
+    },
+    {
+      "id": 175697,
+      "username": "movement_columbia",
+      "name": "Movement Columbia",
+      "latitude": 39.17807,
+      "longitude": -76.81138
     }
   ]
 }

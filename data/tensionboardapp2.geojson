@@ -3834,6 +3834,24 @@
           44.9808
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 175697,
+      "properties": {
+        "id": 175697,
+        "username": "movement_columbia",
+        "name": "Movement Columbia",
+        "latitude": 39.17807,
+        "longitude": -76.81138
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81138,
+          39.17807
+        ]
+      }
     }
   ]
 }
