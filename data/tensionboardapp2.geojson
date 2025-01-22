@@ -3852,6 +3852,24 @@
           39.17807
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 175706,
+      "properties": {
+        "id": 175706,
+        "username": "heliksbruneck",
+        "name": "HELIKS Bruneck",
+        "latitude": 46.7901,
+        "longitude": 11.92805
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.92805,
+          46.7901
+        ]
+      }
     }
   ]
 }
