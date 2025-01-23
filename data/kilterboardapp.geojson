@@ -15066,6 +15066,24 @@
           45.53251
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 626183,
+      "properties": {
+        "id": 626183,
+        "username": "BoulderEck_Erftstadt",
+        "name": "BoulderEck Erftstadt",
+        "latitude": 50.89399,
+        "longitude": 6.78411
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.78411,
+          50.89399
+        ]
+      }
     }
   ]
 }
