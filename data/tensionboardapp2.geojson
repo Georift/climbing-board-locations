@@ -3888,6 +3888,24 @@
           43.76222
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 175950,
+      "properties": {
+        "id": 175950,
+        "username": "stuntwerk_koeln_zollstock",
+        "name": "Stuntwerk Köln Zollstock",
+        "latitude": 50.91866,
+        "longitude": 6.93904
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.93904,
+          50.91866
+        ]
+      }
     }
   ]
 }

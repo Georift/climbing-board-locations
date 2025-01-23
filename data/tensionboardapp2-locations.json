@@ -1511,6 +1511,13 @@
       "name": "Hogtown Boulders",
       "latitude": 43.76222,
       "longitude": -79.36013
+    },
+    {
+      "id": 175950,
+      "username": "stuntwerk_koeln_zollstock",
+      "name": "Stuntwerk Köln Zollstock",
+      "latitude": 50.91866,
+      "longitude": 6.93904
     }
   ]
 }
