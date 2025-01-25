@@ -1518,6 +1518,20 @@
       "name": "Stuntwerk Köln Zollstock",
       "latitude": 50.91866,
       "longitude": 6.93904
+    },
+    {
+      "id": 176290,
+      "username": "thefontborough",
+      "name": "The Font Borough Climbing",
+      "latitude": 51.50729,
+      "longitude": -0.09706
+    },
+    {
+      "id": 176294,
+      "username": "hangar18rancho",
+      "name": "Hangar 18 Rancho Cucamonga",
+      "latitude": 34.08998,
+      "longitude": -117.54379
     }
   ]
 }

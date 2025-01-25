@@ -3906,6 +3906,42 @@
           50.91866
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 176290,
+      "properties": {
+        "id": 176290,
+        "username": "thefontborough",
+        "name": "The Font Borough Climbing",
+        "latitude": 51.50729,
+        "longitude": -0.09706
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09706,
+          51.50729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 176294,
+      "properties": {
+        "id": 176294,
+        "username": "hangar18rancho",
+        "name": "Hangar 18 Rancho Cucamonga",
+        "latitude": 34.08998,
+        "longitude": -117.54379
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.54379,
+          34.08998
+        ]
+      }
     }
   ]
 }
