@@ -15102,6 +15102,24 @@
           50.91866
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 630380,
+      "properties": {
+        "id": 630380,
+        "username": "ytresnillfjord_idrettslag",
+        "name": "Ytre Snillfjord Idrettslag",
+        "latitude": 63.35346,
+        "longitude": 9.2802
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2802,
+          63.35346
+        ]
+      }
     }
   ]
 }
