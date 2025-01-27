@@ -7,5 +7,6 @@ download_locations auroraboardapp
 download_locations decoyboardapp
 download_locations grasshopperboardapp
 download_locations kilterboardapp
+download_locations soillboardapp
 download_locations tensionboardapp2
 download_locations touchstoneboardapp
