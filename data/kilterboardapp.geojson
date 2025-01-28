@@ -15120,6 +15120,24 @@
           63.35346
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 632528,
+      "properties": {
+        "id": 632528,
+        "username": "eliteperformanceclimbing",
+        "name": "Elite Performance Climbing",
+        "latitude": 39.32092,
+        "longitude": -84.36607
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36607,
+          39.32092
+        ]
+      }
     }
   ]
 }
