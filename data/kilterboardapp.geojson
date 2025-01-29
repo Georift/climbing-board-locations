@@ -15138,6 +15138,24 @@
           39.32092
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 633098,
+      "properties": {
+        "id": 633098,
+        "username": "s.k.lucky",
+        "name": "s.k.lucky",
+        "latitude": 41.71807,
+        "longitude": 44.74083
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.74083,
+          41.71807
+        ]
+      }
     }
   ]
 }
