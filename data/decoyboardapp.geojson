@@ -342,6 +342,24 @@
           45.69436
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 6266,
+      "properties": {
+        "id": 6266,
+        "username": "burlybloc",
+        "name": "Burly Bloc",
+        "latitude": 44.50247,
+        "longitude": -73.04567
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.04567,
+          44.50247
+        ]
+      }
     }
   ]
 }
