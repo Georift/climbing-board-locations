@@ -15174,6 +15174,24 @@
           34.05989
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 635115,
+      "properties": {
+        "id": 635115,
+        "username": "progressionbouldering",
+        "name": "Progression Bouldering",
+        "latitude": 49.26216,
+        "longitude": -123.09958
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.09958,
+          49.26216
+        ]
+      }
     }
   ]
 }

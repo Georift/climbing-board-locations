@@ -5900,6 +5900,13 @@
       "name": "Sender One Westwood",
       "latitude": 34.05989,
       "longitude": -118.4443
+    },
+    {
+      "id": 635115,
+      "username": "progressionbouldering",
+      "name": "Progression Bouldering",
+      "latitude": 49.26216,
+      "longitude": -123.09958
     }
   ]
 }
