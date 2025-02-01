@@ -5907,6 +5907,13 @@
       "name": "Progression Bouldering",
       "latitude": 49.26216,
       "longitude": -123.09958
+    },
+    {
+      "id": 635127,
+      "username": "climbupnimes",
+      "name": "Climb Up Nîmes",
+      "latitude": 43.83249,
+      "longitude": 4.36785
     }
   ]
 }

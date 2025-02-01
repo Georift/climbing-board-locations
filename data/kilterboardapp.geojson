@@ -15192,6 +15192,24 @@
           49.26216
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 635127,
+      "properties": {
+        "id": 635127,
+        "username": "climbupnimes",
+        "name": "Climb Up Nîmes",
+        "latitude": 43.83249,
+        "longitude": 4.36785
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36785,
+          43.83249
+        ]
+      }
     }
   ]
 }
