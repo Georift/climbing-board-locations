@@ -1532,6 +1532,13 @@
       "name": "Hangar 18 Rancho Cucamonga",
       "latitude": 34.08998,
       "longitude": -117.54379
+    },
+    {
+      "id": 177485,
+      "username": "progressionbouldering",
+      "name": "Progression Bouldering",
+      "latitude": 49.26216,
+      "longitude": -123.09958
     }
   ]
 }
