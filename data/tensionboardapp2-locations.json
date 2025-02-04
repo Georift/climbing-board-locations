@@ -1539,6 +1539,13 @@
       "name": "Progression Bouldering",
       "latitude": 49.26216,
       "longitude": -123.09958
+    },
+    {
+      "id": 177964,
+      "username": "bouldersgym_downtown",
+      "name": "Boulders Climbing Gym Downtown",
+      "latitude": 43.07327,
+      "longitude": -89.38326
     }
   ]
 }

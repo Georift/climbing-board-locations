@@ -3960,6 +3960,24 @@
           49.26216
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 177964,
+      "properties": {
+        "id": 177964,
+        "username": "bouldersgym_downtown",
+        "name": "Boulders Climbing Gym Downtown",
+        "latitude": 43.07327,
+        "longitude": -89.38326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.38326,
+          43.07327
+        ]
+      }
     }
   ]
 }
