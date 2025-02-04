@@ -15210,6 +15210,24 @@
           43.83249
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 637134,
+      "properties": {
+        "id": 637134,
+        "username": "walden.gent",
+        "name": "Walden Bouldering",
+        "latitude": 51.07393,
+        "longitude": 3.72326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.72326,
+          51.07393
+        ]
+      }
     }
   ]
 }
