@@ -15228,6 +15228,24 @@
           51.07393
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 638904,
+      "properties": {
+        "id": 638904,
+        "username": "dbouldering_kumamoto",
+        "name": "ディーボルダリングプラス熊本小山 D Bouldering Kumamoto-oyama",
+        "latitude": 32.82934,
+        "longitude": 130.79125
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.79125,
+          32.82934
+        ]
+      }
     }
   ]
 }
