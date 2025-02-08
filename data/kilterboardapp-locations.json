@@ -5928,6 +5928,13 @@
       "name": "ディーボルダリングプラス熊本小山 D Bouldering Kumamoto-oyama",
       "latitude": 32.82934,
       "longitude": 130.79125
+    },
+    {
+      "id": 639749,
+      "username": "mandurah_indoor_rock_climbing",
+      "name": "Mandurah Indoor Rock Climbing Center",
+      "latitude": -32.51346,
+      "longitude": 115.75291
     }
   ]
 }

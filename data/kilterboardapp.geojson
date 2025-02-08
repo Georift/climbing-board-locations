@@ -15246,6 +15246,24 @@
           32.82934
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 639749,
+      "properties": {
+        "id": 639749,
+        "username": "mandurah_indoor_rock_climbing",
+        "name": "Mandurah Indoor Rock Climbing Center",
+        "latitude": -32.51346,
+        "longitude": 115.75291
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.75291,
+          -32.51346
+        ]
+      }
     }
   ]
 }
