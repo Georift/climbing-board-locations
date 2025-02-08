@@ -1546,6 +1546,13 @@
       "name": "Boulders Climbing Gym Downtown",
       "latitude": 43.07327,
       "longitude": -89.38326
+    },
+    {
+      "id": 178647,
+      "username": "the_dojo",
+      "name": "The Dojo",
+      "latitude": 43.72963,
+      "longitude": -70.30862
     }
   ]
 }

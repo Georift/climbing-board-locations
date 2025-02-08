@@ -3978,6 +3978,24 @@
           43.07327
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 178647,
+      "properties": {
+        "id": 178647,
+        "username": "the_dojo",
+        "name": "The Dojo",
+        "latitude": 43.72963,
+        "longitude": -70.30862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.30862,
+          43.72963
+        ]
+      }
     }
   ]
 }
