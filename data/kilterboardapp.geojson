@@ -1448,14 +1448,14 @@
         "id": 151250,
         "username": "klimat_wakefield",
         "name": "Klimat",
-        "latitude": 45.64843,
-        "longitude": -75.92734
+        "latitude": 45.64883,
+        "longitude": -75.9264
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.92734,
-          45.64843
+          -75.9264,
+          45.64883
         ]
       }
     },
