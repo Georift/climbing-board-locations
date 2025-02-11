@@ -3996,6 +3996,24 @@
           43.72963
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 179168,
+      "properties": {
+        "id": 179168,
+        "username": "ryklatreklub",
+        "name": "Ry Klatreklub",
+        "latitude": 56.090736,
+        "longitude": 9.7626
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7626,
+          56.090736
+        ]
+      }
     }
   ]
 }
