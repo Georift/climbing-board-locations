@@ -15264,6 +15264,24 @@
           -32.51346
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 643167,
+      "properties": {
+        "id": 643167,
+        "username": "boulder_exe",
+        "name": "Boulder Exe",
+        "latitude": 50.72,
+        "longitude": -3.53781
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.53781,
+          50.72
+        ]
+      }
     }
   ]
 }

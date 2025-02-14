@@ -5935,6 +5935,13 @@
       "name": "Mandurah Indoor Rock Climbing Center",
       "latitude": -32.51346,
       "longitude": 115.75291
+    },
+    {
+      "id": 643167,
+      "username": "boulder_exe",
+      "name": "Boulder Exe",
+      "latitude": 50.72,
+      "longitude": -3.53781
     }
   ]
 }
