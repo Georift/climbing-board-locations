@@ -4014,6 +4014,24 @@
           56.090736
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 179573,
+      "properties": {
+        "id": 179573,
+        "username": "momentumclimbing_fort_union",
+        "name": "Momentum Climbing Fort Union",
+        "latitude": 40.62042,
+        "longitude": -111.86078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.86078,
+          40.62042
+        ]
+      }
     }
   ]
 }
