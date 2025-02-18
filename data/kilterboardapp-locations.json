@@ -5942,6 +5942,13 @@
       "name": "Boulder Exe",
       "latitude": 50.72,
       "longitude": -3.53781
+    },
+    {
+      "id": 646317,
+      "username": "68nord.buldrehall",
+      "name": "68° Nord Buldrehall",
+      "latitude": 68.44631,
+      "longitude": 17.4505
     }
   ]
 }

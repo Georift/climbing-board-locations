@@ -15282,6 +15282,24 @@
           50.72
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 646317,
+      "properties": {
+        "id": 646317,
+        "username": "68nord.buldrehall",
+        "name": "68° Nord Buldrehall",
+        "latitude": 68.44631,
+        "longitude": 17.4505
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4505,
+          68.44631
+        ]
+      }
     }
   ]
 }
