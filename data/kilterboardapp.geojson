@@ -15300,6 +15300,24 @@
           68.44631
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 648943,
+      "properties": {
+        "id": 648943,
+        "username": "coqueluxembourg",
+        "name": "Coque Luxembourg",
+        "latitude": 49.62358,
+        "longitude": 6.15194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15194,
+          49.62358
+        ]
+      }
     }
   ]
 }
