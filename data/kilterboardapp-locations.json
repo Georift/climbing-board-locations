@@ -5956,6 +5956,27 @@
       "name": "Coque Luxembourg",
       "latitude": 49.62358,
       "longitude": 6.15194
+    },
+    {
+      "id": 651761,
+      "username": "urban.boulders",
+      "name": "Urban Boulders",
+      "latitude": 58.42014,
+      "longitude": 15.61749
+    },
+    {
+      "id": 651768,
+      "username": "klimzaalwallstreet",
+      "name": "Klimzaal Wallstreet",
+      "latitude": 51.23145,
+      "longitude": 4.44356
+    },
+    {
+      "id": 651778,
+      "username": "urbanplaygroundclimbing",
+      "name": "Urban Playground Climbing",
+      "latitude": 13.73627,
+      "longitude": 100.57645
     }
   ]
 }

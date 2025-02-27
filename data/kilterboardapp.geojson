@@ -15318,6 +15318,60 @@
           49.62358
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 651761,
+      "properties": {
+        "id": 651761,
+        "username": "urban.boulders",
+        "name": "Urban Boulders",
+        "latitude": 58.42014,
+        "longitude": 15.61749
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.61749,
+          58.42014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 651768,
+      "properties": {
+        "id": 651768,
+        "username": "klimzaalwallstreet",
+        "name": "Klimzaal Wallstreet",
+        "latitude": 51.23145,
+        "longitude": 4.44356
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.44356,
+          51.23145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 651778,
+      "properties": {
+        "id": 651778,
+        "username": "urbanplaygroundclimbing",
+        "name": "Urban Playground Climbing",
+        "latitude": 13.73627,
+        "longitude": 100.57645
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57645,
+          13.73627
+        ]
+      }
     }
   ]
 }

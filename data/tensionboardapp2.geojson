@@ -3837,6 +3837,24 @@
     },
     {
       "type": "Feature",
+      "id": 174617,
+      "properties": {
+        "id": 174617,
+        "username": "TagorockArucas",
+        "name": "Tagorock Arucas Climbing School",
+        "latitude": 28.11281,
+        "longitude": -15.52012
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.52012,
+          28.11281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 175697,
       "properties": {
         "id": 175697,
