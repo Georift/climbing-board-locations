@@ -15372,6 +15372,42 @@
           13.73627
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 652392,
+      "properties": {
+        "id": 652392,
+        "username": "campus_boulderhalle",
+        "name": "Campus Boulderhalle",
+        "latitude": 50.78416,
+        "longitude": 6.1302
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1302,
+          50.78416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 652415,
+      "properties": {
+        "id": 652415,
+        "username": "steinkjerklatreklubb",
+        "name": "Steinkjerhallen",
+        "latitude": 64.02071,
+        "longitude": 11.5117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5117,
+          64.02071
+        ]
+      }
     }
   ]
 }
