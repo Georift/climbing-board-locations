@@ -15444,6 +15444,24 @@
           50.94495
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 656213,
+      "properties": {
+        "id": 656213,
+        "username": "inrockescalada",
+        "name": "In Rock Escalada",
+        "latitude": 39.5735,
+        "longitude": 2.69071
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.69071,
+          39.5735
+        ]
+      }
     }
   ]
 }
