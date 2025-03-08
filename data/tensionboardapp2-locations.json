@@ -1581,6 +1581,13 @@
       "name": "Momentum Climbing Fort Union",
       "latitude": 40.62042,
       "longitude": -111.86078
+    },
+    {
+      "id": 183233,
+      "username": "shiftclimbing",
+      "name": "Shift Climbing",
+      "latitude": 42.81658,
+      "longitude": -86.08664
     }
   ]
 }

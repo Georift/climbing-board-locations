@@ -4068,6 +4068,24 @@
           40.62042
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 183233,
+      "properties": {
+        "id": 183233,
+        "username": "shiftclimbing",
+        "name": "Shift Climbing",
+        "latitude": 42.81658,
+        "longitude": -86.08664
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08664,
+          42.81658
+        ]
+      }
     }
   ]
 }
