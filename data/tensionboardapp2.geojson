@@ -3603,6 +3603,24 @@
     },
     {
       "type": "Feature",
+      "id": 165404,
+      "properties": {
+        "id": 165404,
+        "username": "BluestemBoulders",
+        "name": "Bluestem Boulders",
+        "latitude": 42.02416,
+        "longitude": -93.60368
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.60368,
+          42.02416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": 166186,
       "properties": {
         "id": 166186,
