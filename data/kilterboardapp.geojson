@@ -15660,6 +15660,24 @@
           35.42804
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 665429,
+      "properties": {
+        "id": 665429,
+        "username": "blocabrac",
+        "name": "Blocabrac",
+        "latitude": 45.4419,
+        "longitude": 4.37419
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.37419,
+          45.4419
+        ]
+      }
     }
   ]
 }
