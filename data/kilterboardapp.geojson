@@ -15588,6 +15588,42 @@
           51.56567
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 665271,
+      "properties": {
+        "id": 665271,
+        "username": "isatis_bouldergym",
+        "name": "ISATIS",
+        "latitude": 50.62304,
+        "longitude": 5.59582
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.59582,
+          50.62304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 665282,
+      "properties": {
+        "id": 665282,
+        "username": "isatix",
+        "name": "Isatix",
+        "latitude": 49.15363,
+        "longitude": -0.28923
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.28923,
+          49.15363
+        ]
+      }
     }
   ]
 }

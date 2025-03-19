@@ -6061,6 +6061,20 @@
       "name": "Boulder Neoliet Tilburg",
       "latitude": 51.56567,
       "longitude": 5.1116
+    },
+    {
+      "id": 665271,
+      "username": "isatis_bouldergym",
+      "name": "ISATIS",
+      "latitude": 50.62304,
+      "longitude": 5.59582
+    },
+    {
+      "id": 665282,
+      "username": "isatix",
+      "name": "Isatix",
+      "latitude": 49.15363,
+      "longitude": -0.28923
     }
   ]
 }
