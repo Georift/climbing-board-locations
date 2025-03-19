@@ -15624,6 +15624,24 @@
           49.15363
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 665395,
+      "properties": {
+        "id": 665395,
+        "username": "monkeyspot_moenchengladbach",
+        "name": "Monkeyspot Mönchengladbach",
+        "latitude": 51.18484,
+        "longitude": 6.43066
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.43066,
+          51.18484
+        ]
+      }
     }
   ]
 }
