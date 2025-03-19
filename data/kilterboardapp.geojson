@@ -15642,6 +15642,24 @@
           51.18484
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 665416,
+      "properties": {
+        "id": 665416,
+        "username": "fiddleheadnc",
+        "name": "Fiddlehead",
+        "latitude": 35.42804,
+        "longitude": -82.54514
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.54514,
+          35.42804
+        ]
+      }
     }
   ]
 }
