@@ -15696,6 +15696,24 @@
           30.23066
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 668002,
+      "properties": {
+        "id": 668002,
+        "username": "stoneage_climb",
+        "name": "Stone Age Climbing Park",
+        "latitude": 45.61478,
+        "longitude": 8.99049
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.99049,
+          45.61478
+        ]
+      }
     }
   ]
 }
