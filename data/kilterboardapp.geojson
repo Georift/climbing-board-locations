@@ -4755,24 +4755,6 @@
     },
     {
       "type": "Feature",
-      "id": 171955,
-      "properties": {
-        "id": 171955,
-        "username": "oslomikrobuldreri_gronland",
-        "name": "Oslo Mikrobuldreri Grønland",
-        "latitude": 59.91383,
-        "longitude": 10.76618
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.76618,
-          59.91383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 171956,
       "properties": {
         "id": 171956,
