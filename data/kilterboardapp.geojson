@@ -15804,6 +15804,24 @@
           41.54682
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 675051,
+      "properties": {
+        "id": 675051,
+        "username": "buldretanken",
+        "name": "Buldretanken",
+        "latitude": 60.62634,
+        "longitude": 8.56001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.56001,
+          60.62634
+        ]
+      }
     }
   ]
 }
