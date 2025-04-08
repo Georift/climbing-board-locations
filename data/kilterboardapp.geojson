@@ -15822,6 +15822,24 @@
           60.62634
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 678057,
+      "properties": {
+        "id": 678057,
+        "username": "thecoyoterockgym",
+        "name": "Coyote Rock Gym",
+        "latitude": 45.40566,
+        "longitude": -75.6256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6256,
+          45.40566
+        ]
+      }
     }
   ]
 }
