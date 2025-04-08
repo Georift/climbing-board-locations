@@ -15858,6 +15858,24 @@
           -41.42563
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 678162,
+      "properties": {
+        "id": 678162,
+        "username": "sandbox.bouldering",
+        "name": "Sandbox Bouldering",
+        "latitude": -33.83541,
+        "longitude": 151.05309
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.05309,
+          -33.83541
+        ]
+      }
     }
   ]
 }

@@ -6166,6 +6166,13 @@
       "name": "Galpon Boulder",
       "latitude": -41.42563,
       "longitude": -72.90982
+    },
+    {
+      "id": 678162,
+      "username": "sandbox.bouldering",
+      "name": "Sandbox Bouldering",
+      "latitude": -33.83541,
+      "longitude": 151.05309
     }
   ]
 }
