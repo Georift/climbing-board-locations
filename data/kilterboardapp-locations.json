@@ -6159,6 +6159,13 @@
       "name": "Coyote Rock Gym",
       "latitude": 45.40566,
       "longitude": -75.6256
+    },
+    {
+      "id": 678160,
+      "username": "galponboulder",
+      "name": "Galpon Boulder",
+      "latitude": -41.42563,
+      "longitude": -72.90982
     }
   ]
 }
