@@ -6180,6 +6180,13 @@
       "name": "Sandbox Bouldering",
       "latitude": -33.83541,
       "longitude": 151.05309
+    },
+    {
+      "id": 679004,
+      "username": "lamontgolfiereclub",
+      "name": "La Montgolfière",
+      "latitude": 48.87699,
+      "longitude": 2.30923
     }
   ]
 }

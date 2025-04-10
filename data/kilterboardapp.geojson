@@ -15894,6 +15894,24 @@
           -33.83541
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 679004,
+      "properties": {
+        "id": 679004,
+        "username": "lamontgolfiereclub",
+        "name": "La Montgolfière",
+        "latitude": 48.87699,
+        "longitude": 2.30923
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30923,
+          48.87699
+        ]
+      }
     }
   ]
 }
