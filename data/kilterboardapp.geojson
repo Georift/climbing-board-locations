@@ -15912,6 +15912,24 @@
           48.87699
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 679909,
+      "properties": {
+        "id": 679909,
+        "username": "sporting_park_engelberg",
+        "name": "Sporting Park Engelberg",
+        "latitude": 46.81798,
+        "longitude": 8.40471
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.40471,
+          46.81798
+        ]
+      }
     }
   ]
 }
