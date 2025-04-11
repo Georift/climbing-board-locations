@@ -15930,6 +15930,24 @@
           46.81798
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 679920,
+      "properties": {
+        "id": 679920,
+        "username": "kletterakademie_mitterdorf",
+        "name": "Kletterakademie Mitterdorf - Sport und Funpark Mürztal",
+        "latitude": 47.54721,
+        "longitude": 15.52454
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.52454,
+          47.54721
+        ]
+      }
     }
   ]
 }
