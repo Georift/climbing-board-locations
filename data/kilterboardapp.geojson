@@ -15966,6 +15966,24 @@
           49.2048
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 681041,
+      "properties": {
+        "id": 681041,
+        "username": "soloescalade_toulouse",
+        "name": "Solo Escalade Toulouse",
+        "latitude": 43.62005,
+        "longitude": 1.42052
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.42052,
+          43.62005
+        ]
+      }
     }
   ]
 }

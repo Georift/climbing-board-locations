@@ -6208,6 +6208,13 @@
       "name": "The Hive Surrey Climbing and Fitness",
       "latitude": 49.2048,
       "longitude": -122.88207
+    },
+    {
+      "id": 681041,
+      "username": "soloescalade_toulouse",
+      "name": "Solo Escalade Toulouse",
+      "latitude": 43.62005,
+      "longitude": 1.42052
     }
   ]
 }
