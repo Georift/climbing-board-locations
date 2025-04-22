@@ -4140,6 +4140,24 @@
           -33.83541
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 189720,
+      "properties": {
+        "id": 189720,
+        "username": "lumaclimbinggym",
+        "name": "Luma Climbing",
+        "latitude": 51.379625,
+        "longitude": -2.353975
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.353975,
+          51.379625
+        ]
+      }
     }
   ]
 }
