@@ -16092,6 +16092,24 @@
           37.38468
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 690562,
+      "properties": {
+        "id": 690562,
+        "username": "spot_climbing_gym",
+        "name": "SPOT Climbing Gym Bratislava",
+        "latitude": 48.21503,
+        "longitude": 17.01176
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.01176,
+          48.21503
+        ]
+      }
     }
   ]
 }
