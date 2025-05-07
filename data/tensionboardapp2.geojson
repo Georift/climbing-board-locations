@@ -4194,6 +4194,24 @@
           37.48421
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 191633,
+      "properties": {
+        "id": 191633,
+        "username": "espacioaccion",
+        "name": "Rocódromos Espacio Acción",
+        "latitude": 40.4319,
+        "longitude": -3.65416
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65416,
+          40.4319
+        ]
+      }
     }
   ]
 }
