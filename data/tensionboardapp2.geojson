@@ -4212,6 +4212,24 @@
           40.4319
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 191644,
+      "properties": {
+        "id": 191644,
+        "username": "klimhalstadsmuur",
+        "name": "Stadsmuur Nijmegen",
+        "latitude": 51.82188,
+        "longitude": 5.7879
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7879,
+          51.82188
+        ]
+      }
     }
   ]
 }
