@@ -16164,6 +16164,24 @@
           44.4485
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 698703,
+      "properties": {
+        "id": 698703,
+        "username": "boulderbaar",
+        "name": "Boulder Baar",
+        "latitude": 47.19867,
+        "longitude": 8.54014
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54014,
+          47.19867
+        ]
+      }
     }
   ]
 }
