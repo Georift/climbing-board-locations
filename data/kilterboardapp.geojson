@@ -16200,6 +16200,24 @@
           47.19867
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 698913,
+      "properties": {
+        "id": 698913,
+        "username": "bloc_climbing",
+        "name": "Bloc Climbing Centre",
+        "latitude": 51.46842,
+        "longitude": -2.57022
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.57022,
+          51.46842
+        ]
+      }
     }
   ]
 }

@@ -6299,6 +6299,13 @@
       "name": "Boulder Baar",
       "latitude": 47.19867,
       "longitude": 8.54014
+    },
+    {
+      "id": 698913,
+      "username": "bloc_climbing",
+      "name": "Bloc Climbing Centre",
+      "latitude": 51.46842,
+      "longitude": -2.57022
     }
   ]
 }
