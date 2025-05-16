@@ -16236,6 +16236,24 @@
           37.40295
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 699925,
+      "properties": {
+        "id": 699925,
+        "username": "uwlrec",
+        "name": "UWL REC Climbing Gym",
+        "latitude": 43.81704,
+        "longitude": -91.23293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.23293,
+          43.81704
+        ]
+      }
     }
   ]
 }
