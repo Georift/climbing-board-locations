@@ -1644,6 +1644,13 @@
       "name": "Stadsmuur Nijmegen",
       "latitude": 51.82188,
       "longitude": 5.7879
+    },
+    {
+      "id": 192722,
+      "username": "boulderparc",
+      "name": "Boulder Parc",
+      "latitude": 43.81086,
+      "longitude": -79.20272
     }
   ]
 }

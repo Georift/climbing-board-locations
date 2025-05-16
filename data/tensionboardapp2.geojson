@@ -4230,6 +4230,24 @@
           51.82188
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 192722,
+      "properties": {
+        "id": 192722,
+        "username": "boulderparc",
+        "name": "Boulder Parc",
+        "latitude": 43.81086,
+        "longitude": -79.20272
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.20272,
+          43.81086
+        ]
+      }
     }
   ]
 }
